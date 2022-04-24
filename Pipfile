@@ -1,0 +1,12 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+yaml2ics = "*"
+ics = {file = "https://github.com/ics-py/ics-py/archive/refs/heads/main.zip"}
+
+[dev-packages]
+
+[requires]

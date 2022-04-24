@@ -1,0 +1,217 @@
+name: Webinar - asynx.dev
+timezone: Europe/Istanbul
+
+events:
+  - summary: "Vitis Tools for Acceleration"
+    begin: 2022-04-20 17:00:00 +03:00
+    end: 2022-04-20 18:00:00 +03:00
+    description: |
+      Creating a RTL Kernel: from HDL to reusable packaged Kernel
+
+      This webinar reviews the acceleration design flow with Vitis tools. While high-level design entry methods range from HLS to Model Composer, there are provisions for re-using RTL modules in this flow. This presentation also explains the steps and dependencies to seamlessly fit legacy RTL code into acceleration design flows.
+      https://www.plc2.com/en/training/detail/vitis-for-acceleration-creating-a-rtl-kernel-from-hdl-to-reusable-packaged-kernel-webinar
+
+      PLC2
+      On demand available: YES
+
+  - summary: "Getting Started with SystemVerilog Randomization"
+    begin: 2022-04-20 20:00:00 +03:00
+    end: 2022-04-20 21:00:00 +03:00
+    description: |
+      In this webinar, Doulos Senior Member of Technical Staff, David C Black, will introduce the key concepts of randomization and constraints in SystemVerilog. 
+
+      As well as the principles of Constrained Random Verification, you will be provided with an overview of the language constructs to support this, the generation of data and methods for constraining the data. 
+
+      You will also learn about numerous randomization features and the many approaches for configuration and control. 
+
+      All the examples are supported by working code that you can run on Doulos' free simulation environment EDA Playground using the Questa Advanced Simulator from our webinar partner Siemens. 
+
+      https://register.gotowebinar.com/register/7314049626578160397
+      
+      https://register.gotowebinar.com/register/7037454282469144078
+      
+      Doulos, David C Black
+      On demand available: Probably YES
+
+events:
+  - summary: "Zynq RFSoC DFE: The Only Single-Chip Adaptable Solution for Mass 5G New Radio Deployment"
+    begin: 2022-04-21 17:00:00 +03:00
+    end: 2022-04-21 18:00:00 +03:00
+    description: |
+      We're now fully in the 2nd wave of 5G New Radio, and wireless system designers are racing even faster to meet more aggressive compute, power, and cost constraints for mass NR deployment. The Zynq® RFSoC DFE delivers 2X performance/watt versus Zynq UltraScale+™ RFSoC Gen 3 by combining hardened digital front-end IP cores with adaptive logic. This new class of radio platforms balances the flexibility of an FPGA, cost economies of an ASIC, and the RF-Analog integration only found in Zynq RFSoCs.
+
+      In this hour-long presentation, we'll cover the following:
+
+      The latest 5G Market Dynamics and the need for flexible and cost-effective radio variants
+      A technical overview of the hardened radio cores and their performance/power advantages
+      A demonstration of our 5G O-RU targeted reference design on the evaluation kit
+      How to get started with the ZCU670 evaluation kit
+      We'll also leave plenty of time for questions with our product line manager.
+
+      For the experienced Zynq RFSoC developers, there's a lot new in this next generation architecture you'll want to understand. For those new to Zynq RFSoC—this may be the platform for you.
+
+      https://pages.xilinx.com/EN-WB-2022-04-21-RFSoCDFE_LP-Registration.html
+
+      David Brubaker, AMD
+      Anthony Collins, AMD
+
+      On demand available: UNKOWN
+
+  - summary: "Vitis End-to-End Flow for Mixed Kernel Acceleration on VCK5000"
+    begin: 2022-04-20 18:00:00 +03:00
+    end: 2022-04-20 19:00:00 +03:00
+    description: |
+      Whether you are designing for 5G, data center compute, AI, signal processing, radar, or other computation intensive applications, the VCK5000 development card is the ideal platform for your workloads. VCK5000 is a powerful and easy-to-use accelerator card featuring the latest Versal® device allowing you to create flexible acceleration applications running on CPUs, programmable logic, and AIE cores. This session will give a brief introduction on the Vitis end-to-end flow for constructing acceleration applications with different types of kernels on the VCK5000 card.
+      https://pages.xilinx.com/EN-WB-2022-04-20-VCK5000VitisFlow_LP-Registration.html
+
+      Xilinx, Gang Yuan
+      On demand available: UNKOWN
+
+  - summary: "Deep Learning with FPGAs (Asia/Europe Session)"
+    begin: 2022-04-22 12:00:00 +03:00
+    end: 2022-04-22 13:00:00 +03:00
+    description: |
+      In this webinar, you will learn about the basics of convolutional neural networks as well as deep learning training, inferencing, and implementation at the edge using an FPGA. You'll also learn about the AMD-Xilinx FPGA hardware and software stack for inferencing as provided within the Vitis AI Development Kit.
+      https://www.doulos.com/partner-webinars/deep-learning-with-fpgas-xilinx
+
+      Doulos, John Aynsley
+      On demand available: Probably YES
+
+  - summary: "Deep Learning with FPGAs (Americas Session)"
+    begin: 2022-04-22 20:00:00 +03:00
+    end: 2022-04-22 21:00:00 +03:00
+    description: |
+      In this webinar, you will learn about the basics of convolutional neural networks as well as deep learning training, inferencing, and implementation at the edge using an FPGA. You'll also learn about the AMD-Xilinx FPGA hardware and software stack for inferencing as provided within the Vitis AI Development Kit.
+      https://www.doulos.com/partner-webinars/deep-learning-with-fpgas-xilinx
+
+      Doulos, John Aynsley
+      On demand available: Probably YES
+
+  - summary: "Building Safe and Secure Arm Cortex-M Applications"
+    begin: 2022-04-27 12:00:00 +03:00
+    end: 2022-04-27 13:00:00 +03:00
+    description: |
+      Historically, safety and security have been issues focussed on application or real-time processors, but with the recent arrival of high-frequency and edge devices it has become critical within microcontrollers too. Where software assets protection, system IP security, and dynamic memory management had sometimes been treated as an afterthought, these aspects are now considered fundamental for sound, future-proof firmware development.
+
+      The Arm® v-8M architecture has been designed to enable essential security features in the latest processors whilst retaining an efficient, deterministic code base.
+
+      In this webinar we will:
+
+      examine the modern micro-architectural features available with Arm Cortex®-M that can be used to improve the overall quality of embedded designs
+      contrast the features found inside the latest Arm v-8M processors (such as the Cortex-M33) with the established Cortex-M3/M4
+      highlight the relatively simple steps needed to include safety features provided by the Cortex-M33. This will be illustrated using NXP's MCUXpresso development environment.
+
+      https://www.doulos.com/webinars/building-safe-secure-arm-cortex-m-applications/
+
+      Doulos, Dr David Cabanis
+      On demand available: Probably YES
+
+  - summary: "Building Safe and Secure Arm Cortex-M Applications"
+    begin: 2022-04-27 20:00:00 +03:00
+    end: 2022-04-27 21:00:00 +03:00
+    description: |
+      Historically, safety and security have been issues focussed on application or real-time processors, but with the recent arrival of high-frequency and edge devices it has become critical within microcontrollers too. Where software assets protection, system IP security, and dynamic memory management had sometimes been treated as an afterthought, these aspects are now considered fundamental for sound, future-proof firmware development.
+
+      The Arm® v-8M architecture has been designed to enable essential security features in the latest processors whilst retaining an efficient, deterministic code base.
+
+      In this webinar we will:
+
+      examine the modern micro-architectural features available with Arm Cortex®-M that can be used to improve the overall quality of embedded designs
+      contrast the features found inside the latest Arm v-8M processors (such as the Cortex-M33) with the established Cortex-M3/M4
+      highlight the relatively simple steps needed to include safety features provided by the Cortex-M33. This will be illustrated using NXP's MCUXpresso development environment.
+
+      https://www.doulos.com/webinars/building-safe-secure-arm-cortex-m-applications/
+
+      Doulos, Dr David Cabanis
+      On demand available: Probably YES
+
+  - summary: "Introduction to AI Applications using Kria SoM"
+    begin: 2022-04-27 17:00:00 +03:00
+    end: 2022-04-27 18:00:00 +03:00
+    description: |
+      Using AI on FPGAs might be new to you. This webinar describes the usage and steps needed to have an easy start with AI applications on the Xilinx Kria KV260. Using the Model Zoo from Xilinx as a starting point for image detection, counting and tracking will be demonstrated and further elaborated in addition to the capabilities of the KV260.
+      https://www.plc2.com/en/training/detail/introduction-to-ai-applications-using-kria-som-webinar
+
+      PLC2
+      On demand available: YES
+
+  - summary: "Vitis AI - Creating an Edge Inference Solution"
+    begin: 2022-05-03 17:00:00 +03:00
+    end: 2022-05-03 18:00:00 +03:00
+    description: |
+      FPGA-Based Deep Learning (DNN) Accelerator
+
+      Recent research in the Artificial Intelligence domain have shown significant advantage in Machine learning over traditional algorithms based on handcrafted features and models. Along with availability of credible data and computation resources, researchers are using layered Neural Networks (Deep Learning) for solving various image, speech and video recognition tasks. But the high computation and storage complexity of neural network inference impose great challenges for effective application. Besides, CPUs and GPUSs, FPGAs are becoming a platform candidate to achieve energy efficient neural network processing. In this webinar, we will cover Xilinx strategies to accelerate these algorithms for real-time inference on their hardware.
+      https://www.plc2.com/en/training/detail/vitis-ai-creating-an-edge-inference-solution-webinar
+
+      PLC2
+      On demand available: YES
+
+  - summary: "Python Coding Guidelines and Idioms"
+    begin: 2022-04-29 12:00:00 +03:00
+    end: 2022-04-29 13:00:00 +03:00
+    description: |
+      This webinar, by Doulos Co-Founder & Technical Fellow John Aynsley, will give you four things:
+
+      A set of Python coding guidelines, which you can start using right away or use as a basis for creating your own project-specific coding guidelines.
+      Examples of how to write Pythonic code, that is, Python written in the style Python was meant to be written, as opposed to writing code using Python syntax but in the style of some other programming language.
+      A Python tutorial along the way, for those who are beginners in Python or who are more familiar with some other programming language.
+      A Jupyter Notebook to take away that contains all the guidelines and runnable code examples shown in the webinar, and a few more besides.
+
+      The webinar is presented in partnership with Toradex and concludes with a brief overview of the Toradex board portfolio and Torizon software platform.
+
+      https://www.doulos.com/webinars/python-coding-guidelines-and-idioms/
+
+      Doulos, John Aynsley
+      On demand available: Probably YES
+
+  - summary: "Python Coding Guidelines and Idioms"
+    begin: 2022-04-29 20:00:00 +03:00
+    end: 2022-04-29 21:00:00 +03:00
+    description: |
+      This webinar, by Doulos Co-Founder & Technical Fellow John Aynsley, will give you four things:
+
+      A set of Python coding guidelines, which you can start using right away or use as a basis for creating your own project-specific coding guidelines.
+      Examples of how to write Pythonic code, that is, Python written in the style Python was meant to be written, as opposed to writing code using Python syntax but in the style of some other programming language.
+      A Python tutorial along the way, for those who are beginners in Python or who are more familiar with some other programming language.
+      A Jupyter Notebook to take away that contains all the guidelines and runnable code examples shown in the webinar, and a few more besides.
+
+      The webinar is presented in partnership with Toradex and concludes with a brief overview of the Toradex board portfolio and Torizon software platform.
+
+      https://www.doulos.com/webinars/python-coding-guidelines-and-idioms/
+
+      Doulos, John Aynsley
+      On demand available: Probably YES
+
+  - summary: "Vitis AI - Creating an Edge Inference Solution"
+    begin: 2022-05-03 17:00:00 +03:00
+    end: 2022-05-03 18:00:00 +03:00
+    description: |
+      FPGA-Based Deep Learning (DNN) Accelerator
+
+      Recent research in the Artificial Intelligence domain have shown significant advantage in Machine learning over traditional algorithms based on handcrafted features and models. Along with availability of credible data and computation resources, researchers are using layered Neural Networks (Deep Learning) for solving various image, speech and video recognition tasks. But the high computation and storage complexity of neural network inference impose great challenges for effective application. Besides, CPUs and GPUSs, FPGAs are becoming a platform candidate to achieve energy efficient neural network processing. In this webinar, we will cover Xilinx strategies to accelerate these algorithms for real-time inference on their hardware.
+
+      https://www.plc2.com/en/training/detail/vitis-ai-creating-an-edge-inference-solution-webinar
+
+      PLC2
+      On demand available: YES
+
+  - summary: "Developing Algorithms for the Versal ACAP: Host Optimization"
+    begin: 2022-05-05 21:00:00 +03:00
+    end: 2022-05-05 22:00:00 +03:00
+    description: |
+      As the demands on compute performance increase across many applications, more emphasis is being placed on higher levels of optimization for the algorithms being implemented.
+
+      This webinar will examine methodologies for host optimization in the Versal ACAP device. The Versal ACAP is a heterogeneous compute platform containing multiple resources enabling different models of computation to be implemented very efficiently. We will investigate processing capabilities in the Versal ACAP device and options for implementing functions using the Vitis Software Platform and the Vivado ML design suite. We will also explore optimization methodologies and best practices when architecting these highly complex systems.
+
+      Attendees will learn how code vectorization, compiler directives, and C coding style can all be used to provide host optimization. Device resource utilization and code profiling will also be discussed.
+
+      In this webinar, you will:
+
+      - See how to use Xilinx tools to explore, profile, and optimize host code and hardware acceleration kernels
+      - Learn about Xilinx software analysis and simulation flows
+
+      https://register.gotowebinar.com/register/2747008177781623312
+
+      Hardent, Reg Zatrepalek
+      On demand available: UNKNOWN
