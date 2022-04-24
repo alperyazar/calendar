@@ -40,6 +40,7 @@ jobs:
         cp index.html public/
         sed -i "s/BUILDDATEPLACEHOLDER/$(date -u '+%F %T')/g" public/index.html
         cp CNAME public/
+        cp favicon.ico public/
         touch public/.nojekyll
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@v4.3.0
