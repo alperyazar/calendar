@@ -37,6 +37,8 @@ jobs:
         mkdir -p public/ics
         pipenv run yaml2ics data/webinar.yml > public/ics/webinar-alperyazar-com.ics
         cp index.html public/
+      # Ref: https://unix.stackexchange.com/a/181289
+        sed "s/BUILDDATEPLACEHOLDER/$(date '+%Y%m%d')/g" public/index.html
         cp CNAME public/
         touch public/.nojekyll
     - name: Deploy 🚀
