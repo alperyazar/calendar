@@ -215,3 +215,19 @@ events:
 
       Hardent, Reg Zatrepalek
       On demand available: UNKNOWN
+
+  - summary: "Designing with the IP Integrator Tool"
+    begin: 2022-05-20 11:00:00 +03:00
+    end: 2022-05-20 17:00:00 +03:00
+    description: |
+      ONE DAY FREE WORKSHOP
+
+      This free course will help you learn about the IP Integrator Tool learn it’s features and gain the expertise needed to develop, implement, and debug different IP block designs. Use the IP integrator to add and configure the Versal ACAP CIPS block and export the generated hardware and configure the AXI NoC to access DDR memory controllers in Versal ACAP devices.
+
+      More info and registration:
+
+      https://www.core-vision.nl/events/free-training-designing-with-the-ip-integrator-tool/?lang=en
+
+      Doulos & AMD/Xilinx, Core|Vision
+      On demand available: UNKNOWN
+      Registration: REQUIRED (Also should be confirmed by organizer after registration)
