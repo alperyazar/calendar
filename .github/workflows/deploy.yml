@@ -36,7 +36,7 @@ jobs:
       run: |
         rm -rf public
         mkdir -p public/ics
-        pipenv run yaml2ics data/webinar.yml > public/ics/webinar-alperyazar-com.ics
+        pipenv run yaml2ics data/webinar.yml > public/ics/webinar-calendar_alperyazar_com.ics
         cp index.html public/
         sed -i "s/BUILDDATEPLACEHOLDER/$(date -u '+%F %T')/g" public/index.html
         cp CNAME public/
