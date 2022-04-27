@@ -135,18 +135,6 @@ events:
       PLC2
       On demand available: YES
 
-  - summary: "Vitis AI - Creating an Edge Inference Solution"
-    begin: 2022-05-03 17:00:00 +03:00
-    end: 2022-05-03 18:00:00 +03:00
-    description: |
-      FPGA-Based Deep Learning (DNN) Accelerator
-
-      Recent research in the Artificial Intelligence domain have shown significant advantage in Machine learning over traditional algorithms based on handcrafted features and models. Along with availability of credible data and computation resources, researchers are using layered Neural Networks (Deep Learning) for solving various image, speech and video recognition tasks. But the high computation and storage complexity of neural network inference impose great challenges for effective application. Besides, CPUs and GPUSs, FPGAs are becoming a platform candidate to achieve energy efficient neural network processing. In this webinar, we will cover Xilinx strategies to accelerate these algorithms for real-time inference on their hardware.
-      https://www.plc2.com/en/training/detail/vitis-ai-creating-an-edge-inference-solution-webinar
-
-      PLC2
-      On demand available: YES
-
   - summary: "Python Coding Guidelines and Idioms"
     begin: 2022-04-29 12:00:00 +03:00
     end: 2022-04-29 13:00:00 +03:00
