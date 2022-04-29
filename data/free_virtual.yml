@@ -184,6 +184,33 @@ events:
       PLC2
       On demand available: YES
 
+  - summary: "The Keys to SystemC & TLM-2.0: How to be Successful"
+    begin: 2022-05-04 20:00:00 +03:00
+    end: 2022-05-04 21:00:00 +03:00
+    description: |
+      SystemC has become well-established as the language of choice for system modeling and virtual platform creation and integration, and is now being applied successfully for high level synthesis. SystemC models also frequently appear as reference models in the hardware verification flow.
+
+      This session is aimed at hands-on hardware or software engineers who might know Verilog or C but have no previous experience of SystemC. It will explain what you need to know to be successful with SystemC by exploring some fundamental questions including:
+
+      What is SystemC and how is it used?
+      What does modern SystemC code look like?
+      What differentiates SystemC from SystemVerilog?
+      What use cases best fit SystemC?
+      What is TLM?
+      Where can I learn more?
+
+      The session will be presented by David C Black, Doulos Senior Member of Technical Staff and co-author of "SystemC: From the Ground Up". It will consist of a one-hour session, (see below for details) and will be interactive with Q&A participation from delegates.
+
+      https://www.doulos.com/webinars/the-keys-to-systemc-tlm-20/
+
+      https://register.gotowebinar.com/register/4595733626782770188
+      OR
+      https://register.gotowebinar.com/register/4433927296616023823
+
+      Doulos, David C Black
+      On demand available: Probably YES
+      Registration: REQUIRED
+
   - summary: "Developing Algorithms for the Versal ACAP: Host Optimization"
     begin: 2022-05-05 21:00:00 +03:00
     end: 2022-05-05 22:00:00 +03:00
@@ -204,13 +231,85 @@ events:
       Hardent, Reg Zatrepalek
       On demand available: UNKNOWN
 
+  - summary: "How to Improve Embedded Software using State Machines"
+    begin: 2022-05-06 20:00:00 +03:00
+    end: 2022-05-06 21:00:00 +03:00
+    description: |
+      In this webinar, you will learn to identify when and where to use flowcharts vs. state machines in your software designs.
+
+      Flowcharts tend to be overused when designing software, especially when trying to manage more complex embedded applications. You will be given a brief history of flowcharts and state machines along with an overview of the Unified Modeling Language (UML). The webinar will emphasize the use of state machines for designing and implementing stateful embedded software in a variety of potential applications.
+
+      https://www.doulos.com/webinars/how-to-improve-embedded-software-using-state-machines/
+
+      https://register.gotowebinar.com/register/4557371666090266640
+      OR
+      https://register.gotowebinar.com/register/1448521230251292430
+
+      Doulos, Michael Wilk
+      On demand available: Probably YES
+      Registration: REQUIRED
+
+  - summary: "DEADLINE: ASYNC 2022 Summer School"
+    begin: 2022-05-10 01:00:00 +03:00
+    end: 2022-05-10 23:00:00 +03:00
+    description: |
+      The steering committee of the IEEE ASYNC symposium is organizing a summer school on asynchronous design.  The goal of the school is to teach asynchronous chip design to students and practitioners interested in digital hardware design.  Participants will learn how to design asynchronous circuits at the behavioral level, gate level, and physical design level using design automation tools and the Skywater 130 open-source PDK.
+
+      https://asyncsymposium.org/async2022/
+
+      IEEE ASYNC
+      On demand available: Probably YES
+      Registration: REQUIRED
+
+  - summary: "Defining Timing Constraints using SDC"
+    begin: 2022-05-13 20:00:00 +03:00
+    end: 2022-05-13 21:00:00 +03:00
+    description: |
+      This webinar will help you get started with building timing constraints for your digital design using the industry standard Synopsys Timing Constraints (SDC) format.
+
+      As well as getting an overview of what SDC is and the basic terminology, you will learn how to define clocks, how to set up timing for the I/Os and how to define exceptions like false-paths and multicycle-paths; everything you need to set up timing in a simple design.
+
+      ...
+
+      The webinar will also feature a working SDC example design by Microchip applied to a PolarFire FPGA using the Libero SoC Design Suite.
+
+      https://www.doulos.com/webinars/defining-timing-constraints-using-sdc/
+
+      https://register.gotowebinar.com/register/6393753996568458256
+      OR
+      https://register.gotowebinar.com/register/3469396114312507659
+
+      Doulos
+      On demand available: Probably YES
+      Registration: REQUIRED
+
+  - summary: "Rapid Creation of Edge AI Solutions on an FPGA"
+    begin: 2022-05-18 20:00:00 +03:00
+    end: 2022-05-18 21:00:00 +03:00
+    description: |
+      This webinar will explore ideas on identifying and deploying trained AI models on FPGAs. Doulos Member Technical Staff, Dr Rahul Dubey, will discuss contemporary software tools and APIs which help in putting together an FPGA based Edge AI solution.
+
+      We will be using the Xilinx PYNQ™ Python based Hardware/Software stack on FPGA based System-on-Module platforms as an illustration.
+
+      ...
+
+      https://www.doulos.com/webinars/rapid-creation-of-edge-ai-solutions-on-an-fpga/
+
+      https://register.gotowebinar.com/register/8350728563470025230
+      OR
+      https://register.gotowebinar.com/register/8654274037084907276
+
+      Doulos, Rahul Dubey
+      On demand available: Probably YES
+      Registration: REQUIRED
+
   - summary: "Designing with the IP Integrator Tool"
     begin: 2022-05-20 11:00:00 +03:00
     end: 2022-05-20 17:00:00 +03:00
     description: |
       ONE DAY FREE WORKSHOP
 
-      This free course will help you learn about the IP Integrator Tool learn it’s features and gain the expertise needed to develop, implement, and debug different IP block designs. Use the IP integrator to add and configure the Versal ACAP CIPS block and export the generated hardware and configure the AXI NoC to access DDR memory controllers in Versal ACAP devices.
+      This free course will help you learn about the IP Integrator Tool learn it's features and gain the expertise needed to develop, implement, and debug different IP block designs. Use the IP integrator to add and configure the Versal ACAP CIPS block and export the generated hardware and configure the AXI NoC to access DDR memory controllers in Versal ACAP devices.
 
       More info and registration:
 
@@ -219,3 +318,109 @@ events:
       Doulos & AMD/Xilinx, Core|Vision
       On demand available: UNKNOWN
       Registration: REQUIRED (Also should be confirmed by organizer after registration)
+
+  - summary: "Using Python to Implement a Complete Machine Learning Flow"
+    begin: 2022-05-25 20:00:00 +03:00
+    end: 2022-05-25 21:00:00 +03:00
+    description: |
+      In this webinar we will take a fresh look at both Python and Machine Learning.
+
+      We will show how to implement, train, and run a simple neural network model, taking advantage of the Keras API used by TensorFlow, because very few people code neural networks from scratch in Python these days. Along the way, we will describe some of the machine learning principles being used, although the focus here is on the coding, not the theory.
+
+      The webinar will explore the Python language features needed both to prepare datasets and to code and train neural network models and examine the options available for using Python across the whole machine learning flow, from data gathering and curation through model training to deployment.
+
+      ...
+
+      https://www.doulos.com/webinars/using-python-to-implement-a-complete-machine-learning-flow/
+
+      https://register.gotowebinar.com/register/4939168282851727630
+      OR
+      https://register.gotowebinar.com/register/6135927316057890316
+
+      Doulos, John Aynsley
+      On demand available: Probably YES
+      Registration: REQUIRED
+
+  - summary: "Versal ACAP Workshop ONLINE (1/2)"
+    begin: 2022-05-26 14:00:00 +03:00
+    end: 2022-05-26 18:00:00 +03:00
+    description: |
+      It is available to attend FREE OF CHARGE (Usual price $990 / €840)
+
+      The Xilinx Versal ACAP platform is multi-featured, offering unprecedented system level performance and integration.
+
+      This informative workshop (delivered in 2 half day sessions) is a comprehensive and practical introduction to the features and capabilities.
+
+      We'll first cover the broader Versal ACAP device.  We'll then focus on a practical example, optimizing a given application for the AI Engine resources.
+
+      ...
+
+      https://www.doulos.com/training/fpga-and-hardware-design/xilinx/versal-acap-workshop-online/
+
+      https://register.gotowebinar.com/register/2650391892817854220
+      OR
+      https://register.gotowebinar.com/register/4856267304834083342
+
+      Doulos
+      On demand available: Probably NO
+      Registration: REQUIRED
+
+  - summary: "Versal ACAP Workshop ONLINE (2/2)"
+    begin: 2022-05-27 14:00:00 +03:00
+    end: 2022-05-27 18:00:00 +03:00
+    description: |
+      It is available to attend FREE OF CHARGE (Usual price $990 / €840)
+
+      The Xilinx Versal ACAP platform is multi-featured, offering unprecedented system level performance and integration.
+
+      This informative workshop (delivered in 2 half day sessions) is a comprehensive and practical introduction to the features and capabilities.
+
+      We'll first cover the broader Versal ACAP device.  We'll then focus on a practical example, optimizing a given application for the AI Engine resources.
+
+      ...
+
+      https://www.doulos.com/training/fpga-and-hardware-design/xilinx/versal-acap-workshop-online/
+
+      https://register.gotowebinar.com/register/2650391892817854220
+      OR
+      https://register.gotowebinar.com/register/4856267304834083342
+
+      Doulos
+      On demand available: Probably NO
+      Registration: REQUIRED
+
+  - summary: "Fast and easy hardware testing using JTAG Boundary Scan"
+    begin: 2022-05-30 14:00:00 +03:00
+    end: 2022-05-30 17:00:00 +03:00
+    description: |
+      Testing your high-density circuit boards is time consuming and expensive? Now is the time to learn how you can quickly find and fix faults on your electronics using JTAG testing.
+
+      This 2 to 3 hour webinar is designed to provide PCB design, development, test, and production engineers with a hands-on introduction to JTAG boundary scan, using real hardware.
+
+      Held for attendees based in Turkey & Middle East. Presented in English.
+
+      https://www.xjtag.com/company/events/webinar-registration/?webinar_id=966607482644485648
+
+      XJTAG
+      On demand available: UNKNOWN
+      Registration: REQUIRED
+
+  - summary: "Become an SVA Expert in One Hour"
+    begin: 2022-06-01 20:00:00 +03:00
+    end: 2022-06-01 21:00:00 +03:00
+    description: |
+      Doulos Co-Founder & Technical Fellow John Aynsley will teach the core principles necessary to understand and use SystemVerilog Assertions, focussing on the aspects of SVA that are applicable to both formal verification and simulation.
+
+      Particular emphasis will be placed on the core semantics of temporal logic so that you will be able to write your own assertions, understand what you are doing, and avoid the many pitfalls that trap beginners.
+
+      SVA is really not hard if you approach it properly!
+
+      https://www.doulos.com/webinars/become-an-sva-expert-in-one-hour/
+
+      https://register.gotowebinar.com/register/7467971359457884687
+      OR
+      https://register.gotowebinar.com/register/1152592073791552528
+
+      Doulos, John Aynsley
+      On demand available: Probably YES
+      Registration: REQUIRED
