@@ -43,7 +43,7 @@ jobs:
         cp favicon.ico public/
         touch public/.nojekyll
     - name: Deploy (dry-run)
-      uses: JamesIves/github-pages-deploy-action@v4.3.2
+      uses: JamesIves/github-pages-deploy-action@v4.3.3
       with:
         dry-run: true
         token: ${{ secrets.GITHUB_TOKEN }}
