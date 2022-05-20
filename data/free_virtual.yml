@@ -33,7 +33,6 @@ events:
       Doulos, David C Black
       On demand available: Probably YES
 
-events:
   - summary: "Zynq RFSoC DFE: The Only Single-Chip Adaptable Solution for Mass 5G New Radio Deployment"
     begin: 2022-04-21 17:00:00 +03:00
     end: 2022-04-21 18:00:00 +03:00
@@ -340,6 +339,20 @@ events:
       Doulos, John Aynsley
       On demand available: Probably YES
       Registration: REQUIRED
+      
+  - summary: "(TR) ASIC/FPGA Tasarımına Giriş"
+    begin: 2022-05-25 10:00:00 +03:00
+    end: 2022-05-25 12:00:00 +03:00
+    description: |
+      TURKISH/TÜRKÇE
+      
+      Sayısal tasarımın temelleri, ağırlıklı olarak yeni başlayan kişilere yönelik.
+      
+      https://forms.office.com/Pages/ResponsePage.aspx?id=PrmpCZYxkEiGHWiuWdNdZ044K4KXg-hOiLiJL3T1uSlUMEE1VlQzQlpXTkNOTkRRS085OU5DSEg2UiQlQCN0PWcu
+      
+      ElectraIC, Ateş Berna
+      Sonradan erişilebilir: BİLİNMİYOR
+      Kayıt: GEREKLİ
 
   - summary: "Versal ACAP Workshop ONLINE (1/2)"
     begin: 2022-05-26 14:00:00 +03:00
@@ -424,3 +437,56 @@ events:
       Doulos, John Aynsley
       On demand available: Probably YES
       Registration: REQUIRED
+      
+  - summary: "Customers Discuss their Real-World use of HLS (1/2)"
+    begin: 2022-06-08 18:00:00 +03:00
+    end: 2022-06-08 21:40:00 +03:00
+    description: |
+      2 days virtual seminar from Siemens (Mentor Graphics) about customer experiences on their Catapult HLS.
+
+      The focus of this seminar is to have real-world customers present their successes using Catapult High-Level Synthesis (HLS) in markets such as Automotive, 5G/Communications, Video/Imaging, AI/ML, and MEMs Sensors.
+
+      Checkout the event page to see list of attending companies.
+
+      https://event.on24.com/wcc/r/3774063/28921B4E11521F45F9A61047F0A37F1C
+
+      Many speakers, Many companies
+      On demand available: Unkown
+      Registration: REQUIRED
+    
+  - summary: "Customers Discuss their Real-World use of HLS (2/2)"
+    begin: 2022-06-09 18:00:00 +03:00
+    end: 2022-06-09 21:00:00 +03:00
+    description: |
+      2 days virtual seminar from Siemens (Mentor Graphics) about customer experiences on their Catapult HLS.
+
+      The focus of this seminar is to have real-world customers present their successes using Catapult High-Level Synthesis (HLS) in markets such as Automotive, 5G/Communications, Video/Imaging, AI/ML, and MEMs Sensors.
+
+      Checkout the event page to see list of attending companies.
+
+      https://event.on24.com/wcc/r/3774063/28921B4E11521F45F9A61047F0A37F1C
+
+      Many speakers, Many companies
+      On demand available: Unkown
+      Registration: REQUIRED
+
+  - summary: "Vision KRIA SOM"
+    begin: 2022-06-27 10:00:00 +03:00
+    end: 2022-06-27 18:00:00 +03:00
+    description: |
+      LIVE Online WORKSHOP
+
+      Xilinx Kria System-on-Module (SOM) Overview
+      Xilinx Kria KV260 Vision AI Starter Kit Overview
+      Getting Started with the Vision AI Starter Kit
+      Introduction to Vitis Video Analytics SDK (VVAS)
+      Accelerating Applications with the KV260 Vision AI Starter
+      Building the Hardware and Software Design Components
+      Customizing the AI Models
+      Kria SOM Carrier Card Design Guide
+
+      https://www.so-logic.net/en/training_courses/xilinx/vision_kria_som_live_online_workshop
+
+      so-logic
+      On demand available: Unkown
+      Registration: REQUIRED     
