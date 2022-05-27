@@ -339,17 +339,17 @@ events:
       Doulos, John Aynsley
       On demand available: Probably YES
       Registration: REQUIRED
-      
+
   - summary: "(TR) ASIC/FPGA Tasarımına Giriş"
     begin: 2022-05-25 10:00:00 +03:00
     end: 2022-05-25 12:00:00 +03:00
     description: |
       TURKISH/TÜRKÇE
-      
+
       Sayısal tasarımın temelleri, ağırlıklı olarak yeni başlayan kişilere yönelik.
-      
+
       https://forms.office.com/Pages/ResponsePage.aspx?id=PrmpCZYxkEiGHWiuWdNdZ044K4KXg-hOiLiJL3T1uSlUMEE1VlQzQlpXTkNOTkRRS085OU5DSEg2UiQlQCN0PWcu
-      
+
       ElectraIC, Ateş Berna
       Sonradan erişilebilir: BİLİNMİYOR
       Kayıt: GEREKLİ
@@ -418,6 +418,22 @@ events:
       On demand available: UNKNOWN
       Registration: REQUIRED
 
+  - summary: "Democratization of Digital-Centric Methodologies for Analog and Mixed-Signal Verification"
+    begin: 2022-06-01 18:00:00 +03:00
+    end: 2022-06-01 19:00:00 +03:00
+    description: |
+      In this session we will discuss about these digital-centric mixed signal verification methodologies to improve SoC verification throughput and improve time to market.
+
+      The digitalization trend is resulting in increased semiconductor content in everything from automobiles to appliances to factories. Chips are getting bigger, better, and more sophisticated. As designs complexity has multiplied, verification complexity has exploded. Verification has become an art of applying many unique methodologies for each of the different classes of sub-design within a design. The advent of new technologies — such as constrained-random data generation, assertion-based verification, coverage-driven verification, formal model checking and Intelligent Testbench Automation to name a few — have changed the way we see functional verification productivity. However, most of these advanced new technologies have not been extended to verify mixed signal design challenges.
+
+      Attend this session and learn how digital-centric mixed-signal verification methodologies including real number modeling, UVM-AMS and UPF-MS can be used to improve SoC verification throughput and improve time to market.
+
+      https://event.on24.com/wcc/r/3771889/AA44D616A31C1E46419A7192C01536D8
+
+      Microchip and Siemens EDA
+      On demand available: UNKNOWN
+      Registration: REQUIRED
+
   - summary: "Become an SVA Expert in One Hour"
     begin: 2022-06-01 20:00:00 +03:00
     end: 2022-06-01 21:00:00 +03:00
@@ -437,7 +453,23 @@ events:
       Doulos, John Aynsley
       On demand available: Probably YES
       Registration: REQUIRED
-      
+
+  - summary: "Introducing the Kria Robotics Starter Kit"
+    begin: 2022-06-07 17:00:00 +03:00
+    end: 2022-06-07 18:00:00 +03:00
+    description: |
+      Hardware accelerate your next ROS 2 and machine vision designs
+
+      The Kria KR260 Robotics Starter Kit is the latest addition to the Kria portfolio of adaptive system-on-modules (SOMs) and developer kits.
+
+      ...
+
+      https://pages.xilinx.com/EN-WB-2022-06-07-KR260Intro_LP-Registration.html
+
+      AMD (Xilinx)
+      On demand available: UNKNOWN
+      Registration: REQUIRED
+
   - summary: "Customers Discuss their Real-World use of HLS (1/2)"
     begin: 2022-06-08 18:00:00 +03:00
     end: 2022-06-08 21:40:00 +03:00
@@ -453,7 +485,7 @@ events:
       Many speakers, Many companies
       On demand available: Unkown
       Registration: REQUIRED
-    
+
   - summary: "Customers Discuss their Real-World use of HLS (2/2)"
     begin: 2022-06-09 18:00:00 +03:00
     end: 2022-06-09 21:00:00 +03:00
@@ -489,4 +521,4 @@ events:
 
       so-logic
       On demand available: Unkown
-      Registration: REQUIRED     
+      Registration: REQUIRED
