@@ -522,3 +522,23 @@ events:
       so-logic
       On demand available: Unkown
       Registration: REQUIRED
+
+  - summary: "IMPORTANT! / ÖNEMLI! This calendar will be closed. / Bu takvim kapatılacaktır."
+    begin: 2022-07-01 01:00:00 +03:00
+    end: 2022-12-31 23:00:00 +03:00
+    description: |
+        This calendar will be served from different URL. Please visit
+
+        https://asynx.dev/calendar/
+
+        new .ics URL:
+
+        https://cal.asynx.dev/ics/free_virtual-cal_asynx_dev.ics
+
+        Bu takvimin adresi değişmiştir. Lütfen
+
+        https://asynx.dev/tr/takvim/
+
+        adresini ziyaret edin. Yeni .ics adresi:
+
+        https://cal.asynx.dev/ics/free_virtual-cal_asynx_dev.ics
