@@ -38,6 +38,7 @@ jobs:
         mkdir -p public/ics
         pipenv run yaml2ics data/free_virtual.yml > public/ics/free_virtual-calendar_alperyazar_com.ics
         cp index.html public/
+        cp dracula.css public/
         sed -i "s/BUILDDATEPLACEHOLDER/$(date -u '+%F %T')/g" public/index.html
         cp CNAME public/
         cp favicon.ico public/

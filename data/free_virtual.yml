@@ -1,4 +1,4 @@
-name: Free Virtual (Online) Events - calendar.alperyazar.com
+name: Free Virtual (Online) Events - cal.alperyazar.com
 timezone: Europe/Istanbul
 
 events:
@@ -502,6 +502,133 @@ events:
       On demand available: Unkown
       Registration: REQUIRED
 
+  - summary: "Lint vs Formal AutoCheck"
+    begin: 2022-06-15 18:00:00 +03:00
+    end: 2022-06-15 19:00:00 +03:00
+    description: |
+      Which is better – linting tools or formal auto checking tools? Backers of either hold ardent opinions of their relative merits, and like a proverbial cage match, would love to see their champion emerge as the winner in a contest of verification tools.
+
+      In this session you will gain an understanding of the similarities and differences between Lint and Formal AutoChecking tools, and how they can be used together to increase the quality of RTL deliverables.
+
+      https://event.on24.com/wcc/r/3735573/9ECE262AA33CB2257A6BC5D7767A2B68
+
+      Siemens EDA
+      On demand available: Unkown
+      Registration: REQUIRED
+
+  - summary: "Debugging Features of UVM"
+    begin: 2022-06-15 20:00:00 +03:00
+    end: 2022-06-15 21:00:00 +03:00
+    description: |
+      A UVM testbench is a large and complex piece of software. At some stage, like any other large and complex piece of software, a verification environment written using UVM is going to require debugging. There are various debugging features built into UVM to help with this.
+
+      In this webinar Doulos Senior Member Technical Staff, Doug Smith, explores the various features in UVM to help you debug your UVM environment, your test cases, and your design under test.
+
+      Note: Two time slots are available, visit the event page
+
+      https://www.doulos.com/webinars/debugging-features-of-uvm/
+
+      Doulos
+      On demand available: PROBABLY YES
+      Registration: REQUIRED
+
+  - summary: "Migrating Your CUDA Code to Vitis Accelerated Kernels Made Simple"
+    begin: 2022-06-16 17:00:00 +03:00
+    end: 2022-06-16 18:00:00 +03:00
+    description: |
+      Join us to learn how to port CUDA kernels for GPUs to the Vitis™ unified software platform and its high-level synthesis (HLS) technology.
+
+      During the session, we’ll demonstrate the Vitis HLS tool and interpret the results based on a dot product kernel example that we compare to CUDA.
+
+      https://pages.xilinx.com/EN-WB-2022-06-16-CUDAMigration_LP-Registration.html
+
+      AMD (Xilinx)
+      On demand available: UNKNOWN
+      Registration: REQUIRED
+
+  - summary: "Getting Started with Embedded Linux Security"
+    begin: 2022-06-17 20:00:00 +03:00
+    end: 2022-06-17 21:00:00 +03:00
+    description: |
+      In this webinar we examine some of the main features and tools which can be used to make your embedded Linux system more secure. We can see how features of the compiler, the kernel and Linux user space can be used to satisfy the requirements of one of the main security standards used for consumer electronic devices.
+      We also review some of the hardware features provided by SoC vendors to increase security, using the Xilinx Versal ACAP (Adaptive Compute Acceleration Platform) as an example.
+
+      Note: Two time slots are available, visit the event page
+
+      https://www.doulos.com/webinars/getting-started-with-embedded-linux-security/
+
+      Doulos
+      On demand available: PROBABLY YES
+      Registration: REQUIRED
+
+  - summary: "Embedded Software Design Techniques"
+    begin: 2022-06-20 21:00:00 +03:00
+    end: 2022-06-20 22:00:00 +03:00
+    repeat:
+      interval:
+        days: 1
+      until: 2022-06-24 23:59:59 +03:00
+    description: |
+      1 hour course for 5 days
+
+      Day 1: Software Architectures 101
+      Day 2: Designing RTOS-Based Applications
+      Day 3: Architecture Verification Techniques
+      Day 4: Designing Quality into Embedded Systems
+      Day 5: Software Configuration Management Techniques
+
+      https://www.designnews.com/continuing-education-center
+
+      Jacob Beningo
+      On demand available: UNKOWN
+      Registration: REQUIRED
+
+  - summary: "Cost-Optimized FPGAs and Adaptive SoCs for Low Power Designs"
+    begin: 2022-06-21 21:00:00 +03:00
+    end: 2022-06-21 22:00:00 +03:00
+    description: |
+      This webinar introduces the Xilinx® UltraScale+™ Cost-Optimized Portfolio (COP) and discusses implementing machine vision and secure wireless communication applications with greater power efficiency.
+
+      Note: Two time slots are available, visit the event page
+
+      https://pages.xilinx.com/EN-WB-2022-06-21-LowPowerCOP7am_LP-Registration.html
+
+      AMD (Xilinx)
+      On demand available: UNKNOWN
+      Registration: REQUIRED
+
+  - summary: "(Turkish) Modern C++ ile Sürdürülebilir Yazılım Mimarisi"
+    begin: 2022-06-23 20:30:00 +03:00
+    end: 2022-06-23 22:00:00 +03:00
+    description: |
+      Mil-DDS gibi ülkemize hizmet için geliştirilen yazılımların geliştiricilerinden olan Hüseyin Kutluca,
+      23 Haziran Perşembe günü saat 20:30'da "Modern C++ ile Sürdürülebilir Yazılım Mimarisi" sunumu ile aramızda olacak.
+
+      Etkinliğimize katılmak için YouTube linki üzerinden hatırlatıcı oluşturabilirsiniz.
+
+      https://www.youtube.com/watch?v=BA5xCET-pJc
+
+      Hüseyin Kutluca. Türkiye C++ Topluluğu (Turkey Cpp)
+      Sonra izlenebilir: EVET
+      Kayıt: GEREKMİYOR
+
+  - summary: "Clock Domain Crossing"
+    begin: 2022-06-24 20:00:00 +03:00
+    end: 2022-06-24 21:00:00 +03:00
+    description: |
+      The primary goal in safely implementing any IC or FPGA project is to achieve a synchronous design. This implies that the relationship of all clocks and asynchronous resets to each other is defined in the synthesis constraints.
+      Incorrect handling of clock-domain crossing (CDC) is probably the primary cause of sporadic errors, which are impossible to catch in a digital simulation and can cause a system to inexplicably fail in the field.
+
+      This webinar discusses situations in which CDC problems can occur and more importantly presents solutions for the most frequent scenarios.
+
+      Note: Two time slots are available, visit the event page
+
+      https://www.doulos.com/webinars/clock-domain-crossing/
+
+      Doulos
+      On demand available: PROBABLY YES
+      Registration: REQUIRED
+
   - summary: "Vision KRIA SOM"
     begin: 2022-06-27 10:00:00 +03:00
     end: 2022-06-27 18:00:00 +03:00
@@ -523,22 +650,101 @@ events:
       On demand available: Unkown
       Registration: REQUIRED
 
-  - summary: "IMPORTANT! / ÖNEMLI! This calendar will be closed. / Bu takvim kapatılacaktır."
-    begin: 2022-07-01 01:00:00 +03:00
-    end: 2022-12-31 23:00:00 +03:00
+  - summary: "What's New in Vitis AI 2.5"
+    begin: 2022-06-28 18:00:00 +03:00
+    end: 2022-06-28 19:00:00 +03:00
     description: |
-        This calendar will be served from different URL. Please visit
+      The Vitis AI development environment is a development platform for artificial intelligence (AI) inference on AMD-Xilinx hardware platforms such as FPGAs, adaptive SoCs, and Alveo data center accelerator cards.
 
-        https://asynx.dev/calendar/
+      In this webinar, we introduce new features in the latest 2.5 release, including:
 
-        new .ics URL:
+      New convolutional neural network (CNN) and non-CNN algorithm models
+      AI quantizer updates and model inspector
+      Expanded support for new frameworks and walkthrough of the in-framework inference flow WeGO
+      New functions for the edge-end and data center deep learning acceleration engine
 
-        https://cal.asynx.dev/ics/free_virtual-cal_asynx_dev.ics
+      https://pages.xilinx.com/EN-WB-2022-06-28-VitisAI2.5_LP-Registration.html
 
-        Bu takvimin adresi değişmiştir. Lütfen
+      Xilinx (AMD)
+      On demand available: Unkown
+      Registration: REQUIRED
 
-        https://asynx.dev/tr/takvim/
+  - summary: "Secure Boot Features and Secure Boot Overview for Xilinx Versal ACAP"
+    begin: 2022-06-29 17:00:00 +03:00
+    end: 2022-06-29 18:00:00 +03:00
+    description: |
+      In the beginning of this session the security core functions will be described that support encryption and decryption, authentication, and key management. The differences of Asymmetric Hardware Root-of-Trust (A-HWRoT) and Symmetric Hardware Root-of-Trust (S-HWRoT) are explained.
 
-        adresini ziyaret edin. Yeni .ics adresi:
+      https://register.gotowebinar.com/register/3153584488447943950
 
-        https://cal.asynx.dev/ics/free_virtual-cal_asynx_dev.ics
+      PLC2
+      On demand available: YES
+      Registration: REQUIRED
+
+  - summary: "OSTree for Embedded Linux Distribution"
+    begin: 2022-06-29 20:00:00 +03:00
+    end: 2022-06-29 21:00:00 +03:00
+    description: |
+      OSTree is a library widely adopted for the implementation of robust and secure frameworks for over-the-air (OTA) updates of Embedded Linux systems.
+      OSTree introduces a number of novel and potentially challenging techniques, even for experienced developers familiar with a more traditional embedded Linux distribution.
+      For example, OSTree allows for multiple Linux distributions to be stored on a single filesystem and each modified root filesystem (tree) is committed to a Git-like repository.
+
+      Note: Two time slots are available, visit the event page
+
+      https://www.doulos.com/webinars/ostree-for-embedded-linux-distribution/
+
+      Doulos
+      On demand available: PROBABLY YES
+      Registration: REQUIRED
+
+  - summary: "Anatomy of an Embedded Linux System"
+    begin: 2022-07-01 20:00:00 +03:00
+    end: 2022-07-01 21:00:00 +03:00
+    description: |
+      Are you considering using Linux on your next embedded system project?
+      Do you want to find out more about what using embedded Linux means in practice?
+
+      This webinar will discuss each of the components required for Linux to work on an embedded system:
+
+      Linux kernel
+      Toolchain
+      Bootloader
+      Filesystem
+
+      Note: Two time slots are available, visit the event page
+
+      https://www.doulos.com/webinars/anatomy-of-an-embedded-linux-system-renesas/
+
+      Doulos
+      On demand available: PROBABLY YES
+      Registration: REQUIRED
+
+  - summary: "Go Spartan-7! Rapid Prototyping with the SP701 Evaluation Kit"
+    begin: 2022-07-07 17:00:00 +03:00
+    end: 2022-07-07 18:00:00 +03:00
+    description: |
+      Looking for processing power and flexible connectivity at low cost? How about a design path that doesn’t need hardware expertise?
+
+      In this webinar, you’ll learn how the Spartan®-7 family delivers processor scalability, any-to-any connectivity, sensor fusion, and custom hardware acceleration—all at a low-cost entry-point.
+
+      Using a push-button and plug-and-play flow, we’ll show how you can rapidly prototype an embedded system as a microcontroller, real-time processor, or application processor on the SP701 Evaluation Kit.
+
+      https://pages.xilinx.com/EN-WB-2022-07-07-SP701Rebroadcast_LP-Registration.html
+
+      Xilinx (AMD)
+      On demand available: PROBABLY YES
+      Registration: REQUIRED
+
+  - summary: "Mastering MicroBlaze"
+    begin: 2022-07-21 18:00:00 +03:00
+    end: 2022-07-21 20:00:00 +03:00
+    description: |
+      Within many FPGA you will find a MicroBlaze processor doing some of the heavy lifting for communication, register / IP configuration or house keeping. Without these processors, our jobs as FPGA designers would be even more complex.
+
+      In this hands-on workshop we are going to create, develop, and deploy a MicroBlaze solution that will work in any Xilinx 7 series device or newer.
+
+      https://app.livestorm.co/adiuvo-engineering/mastering-microblaze
+
+      Adam Taylor and Xilinx (AMD)
+      On demand available: UNKNOWN
+      Registration: REQUIRED
