@@ -2,4 +2,4 @@
 
 .ics calendar(s) for techincal events (webinars, etc.)
 
-Visit: <https://calendar.alperyazar.com>
+Visit: <https://cal.alperyazar.com>
