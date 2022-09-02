@@ -775,6 +775,32 @@ events:
       On demand available: UNKNOWN
       Registration: REQUIRED
 
+  - summary: "Application Development with Vitis Accelerated Libraries"
+    begin: 2022-09-14 18:00:00 +03:00
+    end: 2022-09-14 19:00:00 +03:00
+    description: |
+      In this webinar, we will use one example from the Vitis unified software platform tutorial on GitHub to illustrate how to develop an application with Vitis Accelerated PL Library on Alveo U50
+
+      https://pages.xilinx.com/EN-WB-2022-09-14-VitisAcceleratedLibraries_LP-Registration.html
+
+      Xilinx (AMD)
+      On demand available: UNKNOWN
+      Registration: REQUIRED
+
+  - summary: "C/C++ Memory Management: The Stack & Globals"
+    begin: 2022-09-14 20:00:00 +03:00
+    end: 2022-09-14 21:00:00 +03:00
+    description: |
+      This webinar explores memory usage in C and C++ using stack organization and global storage, including common mistakes and solutions.
+
+      https://register.gotowebinar.com/register/1193901827924392718
+
+      https://www.doulos.com/webinars/ccplusplus-memory-management-the-stack-globals/
+
+      Doulos
+      On demand available: PROBABLY YES
+      Registration: REQUIRED
+
   - summary: "UVVM: UVM for VHDL DESIGNERS - An INTRODUCTION"
     begin: 2022-09-15 10:30:00 +03:00
     end: 2022-09-15 11:30:00 +03:00
@@ -785,6 +811,48 @@ events:
 
       Espen TALLAKSEN (via ELECTRA IC)
       On demand available: UNKNOWN
+      Registration: REQUIRED
+
+  - summary: "Portable Stimulus: What is it and what is it for?"
+    begin: 2022-09-16 20:00:00 +03:00
+    end: 2022-09-16 21:00:00 +03:00
+    description: |
+      This webinar introduces the Accellera Portable Test and Stimulus Standard (PSS).
+
+      https://register.gotowebinar.com/register/8782784958567035405
+
+      https://www.doulos.com/webinars/portable-stimulus-what-is-it-and-what-is-it-for/
+
+      Doulos
+      On demand available: PROBABLY YES
+      Registration: REQUIRED
+
+  - summary: "The Keys to SystemC & TLM-2.0: How to be Successful​"
+    begin: 2022-09-23 20:00:00 +03:00
+    end: 2022-09-23 21:00:00 +03:00
+    description: |
+      This session is aimed at hands-on hardware or software engineers who might know Verilog or C but have no previous experience of SystemC.
+
+      https://register.gotowebinar.com/register/4003736777871208976
+
+      https://www.doulos.com/webinars/the-keys-to-systemc-tlm-20/
+
+      Doulos
+      On demand available: PROBABLY YES
+      Registration: REQUIRED
+
+  - summary: "Anatomy of a Linux Device Driver​"
+    begin: 2022-09-28 20:00:00 +03:00
+    end: 2022-09-28 21:00:00 +03:00
+    description: |
+      This webinar will examine the role and structure of a Linux device driver and how it interacts with existing frameworks and subsystems within the Linux kernel.
+
+      https://register.gotowebinar.com/register/5757583168524508427
+
+      https://www.doulos.com/webinars/anatomy-of-a-linux-device-driver/
+
+      Doulos
+      On demand available: PROBABLY YES
       Registration: REQUIRED
 
   - summary: "Xilinx Spartan-6 Migration to 7 Series or UltraScale+ Online Workshop"
