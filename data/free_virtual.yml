@@ -826,7 +826,7 @@ events:
       Doulos
       On demand available: PROBABLY YES
       Registration: REQUIRED
- 
+
   - summary: "Kria App Series: Faster than the blink of an eye"
     begin: 2022-09-20 17:00:00 +03:00
     end: 2022-09-20 18:00:00 +03:00
@@ -838,7 +838,19 @@ events:
       Xilinx (AMD)
       On demand available: UNKNOWN
       Registration: REQUIRED
- 
+
+  - summary: "AI Engine Development Using Vitis Model Composer"
+    begin: 2022-09-21 18:00:00 +03:00
+    end: 2022-09-21 19:00:00 +03:00
+    description: |
+      Vitis™ Model Composer is a model-based design tool that enables rapid design exploration within the MathWorks MATLAB® and Simulink® environment and accelerates the path to production on AMD Xilinx devices via automatic code generation.
+
+      https://pages.xilinx.com/EN-WB-2022-09-21-AIEngineDevelopment_LP-Registration.html
+
+      Xilinx (AMD)
+      On demand available: UNKNOWN
+      Registration: REQUIRED
+
   - summary: "The Keys to SystemC & TLM-2.0: How to be Successful​"
     begin: 2022-09-23 20:00:00 +03:00
     end: 2022-09-23 21:00:00 +03:00
@@ -851,6 +863,20 @@ events:
 
       Doulos
       On demand available: PROBABLY YES
+      Registration: REQUIRED
+
+  - summary: "Comparing the performance of graph algorithms on AMD Xilinx FPGA and Nvidia GPUs"
+    begin: 2022-09-27 18:00:00 +03:00
+    end: 2022-09-27 19:00:00 +03:00
+    description: |
+      Vitis graph library offers the implementations of an extensive set of hardware kernels and software API functions of graph analytic algorithms to both hardware and software developers.
+
+      In this webinar, we will introduce the implementation of two key graph analytic algorithms: Breadth First Search (BFS) and Single Source Shortest Path (SSSP) on AMD Xilinx FPGAs...
+
+      https://pages.xilinx.com/EN-WB-2022-09-27-VitisGraphvsNvidiaGraph_LP-Registration.html
+
+      Xilinx (AMD)
+      On demand available: UNKNOWN
       Registration: REQUIRED
 
   - summary: "Anatomy of a Linux Device Driver​"
