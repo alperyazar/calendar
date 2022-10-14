@@ -1,0 +1,1130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0-dev0 - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:UTC+03:00
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0300
+DTSTART:19700101T000000
+RRULE:FREQ=YEARLY;COUNT=1
+TZNAME:UTC+03:00
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220420T170000
+DTEND;TZID="UTC+03:00":20220420T180000
+SUMMARY:Vitis Tools for Acceleration
+UID:e7485c6f-8fdb-43f6-8fbb-87a626395d46@e748.org
+DESCRIPTION:Creating a RTL Kernel: from HDL to reusable packaged 
+ Kernel\n\nThis webinar reviews the acceleration design flow with Vitis 
+ tools. While high-level design entry methods range from HLS to Model 
+ Composer\, there are provisions for re-using RTL modules in this flow. 
+ This presentation also explains the steps and dependencies to seamlessly 
+ fit legacy RTL code into acceleration design 
+ flows.\nhttps://www.plc2.com/en/training/detail/vitis-for-acceleration-
+ creating-a-rtl-kernel-from-hdl-to-reusable-packaged-kernel-
+ webinar\n\nPLC2\nOn demand available: YES
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220420T200000
+DTEND;TZID="UTC+03:00":20220420T210000
+SUMMARY:Getting Started with SystemVerilog Randomization
+UID:135291b1-6ec4-43e3-b259-e162475a685a@1352.org
+DESCRIPTION:In this webinar\, Doulos Senior Member of Technical Staff\, 
+ David C Black\, will introduce the key concepts of randomization and 
+ constraints in SystemVerilog.\n\nAs well as the principles of Constrained 
+ Random Verification\, you will be provided with an overview of the 
+ language constructs to support this\, the generation of data and methods 
+ for constraining the data.\n\nYou will also learn about numerous 
+ randomization features and the many approaches for configuration and 
+ control.\n\nAll the examples are supported by working code that you can 
+ run on Doulos' free simulation environment EDA Playground using the Questa
+  Advanced Simulator from our webinar partner Siemens.\n\nhttps://register.
+ gotowebinar.com/register/7314049626578160397\n\nhttps://register.gotowebin
+ ar.com/register/7037454282469144078\n\nDoulos\, David C Black\nOn demand 
+ available: Probably YES
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220421T170000
+DTEND;TZID="UTC+03:00":20220421T180000
+SUMMARY:Zynq RFSoC DFE: The Only Single-Chip Adaptable Solution for Mass 5G
+  New Radio Deployment
+UID:77486970-5fa3-46a6-b048-89068701c9ba@7748.org
+DESCRIPTION:We're now fully in the 2nd wave of 5G New Radio\, and wireless 
+ system designers are racing even faster to meet more aggressive compute\, 
+ power\, and cost constraints for mass NR deployment. The Zynq® RFSoC DFE 
+ delivers 2X performance/watt versus Zynq UltraScale+™ RFSoC Gen 3 by 
+ combining hardened digital front-end IP cores with adaptive logic. This 
+ new class of radio platforms balances the flexibility of an FPGA\, cost 
+ economies of an ASIC\, and the RF-Analog integration only found in Zynq 
+ RFSoCs.\n\nIn this hour-long presentation\, we'll cover the 
+ following:\n\nThe latest 5G Market Dynamics and the need for flexible and 
+ cost-effective radio variants\nA technical overview of the hardened radio 
+ cores and their performance/power advantages\nA demonstration of our 5G 
+ O-RU targeted reference design on the evaluation kit\nHow to get started 
+ with the ZCU670 evaluation kit\nWe'll also leave plenty of time for 
+ questions with our product line manager.\n\nFor the experienced Zynq RFSoC
+  developers\, there's a lot new in this next generation architecture 
+ you'll want to understand. For those new to Zynq RFSoC—this may be the 
+ platform for you.\n\nhttps://pages.xilinx.com/EN-
+ WB-2022-04-21-RFSoCDFE_LP-Registration.html\n\nDavid Brubaker\, 
+ AMD\nAnthony Collins\, AMD\n\nOn demand available: UNKOWN
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220420T180000
+DTEND;TZID="UTC+03:00":20220420T190000
+SUMMARY:Vitis End-to-End Flow for Mixed Kernel Acceleration on VCK5000
+UID:eb95df3c-8cf9-45f3-9b57-334c214bd748@eb95.org
+DESCRIPTION:Whether you are designing for 5G\, data center compute\, AI\, 
+ signal processing\, radar\, or other computation intensive applications\, 
+ the VCK5000 development card is the ideal platform for your workloads. 
+ VCK5000 is a powerful and easy-to-use accelerator card featuring the 
+ latest Versal® device allowing you to create flexible acceleration 
+ applications running on CPUs\, programmable logic\, and AIE cores. This 
+ session will give a brief introduction on the Vitis end-to-end flow for 
+ constructing acceleration applications with different types of kernels on 
+ the VCK5000 card.\nhttps://pages.xilinx.com/EN-
+ WB-2022-04-20-VCK5000VitisFlow_LP-Registration.html\n\nXilinx\, Gang 
+ Yuan\nOn demand available: UNKOWN
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220422T120000
+DTEND;TZID="UTC+03:00":20220422T130000
+SUMMARY:Deep Learning with FPGAs (Asia/Europe Session)
+UID:641d2ce4-d67e-46bd-885f-7a5499721671@641d.org
+DESCRIPTION:In this webinar\, you will learn about the basics of 
+ convolutional neural networks as well as deep learning training\, 
+ inferencing\, and implementation at the edge using an FPGA. You'll also 
+ learn about the AMD-Xilinx FPGA hardware and software stack for 
+ inferencing as provided within the Vitis AI Development 
+ Kit.\nhttps://www.doulos.com/partner-webinars/deep-learning-with-fpgas-
+ xilinx\n\nDoulos\, John Aynsley\nOn demand available: Probably YES
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220422T200000
+DTEND;TZID="UTC+03:00":20220422T210000
+SUMMARY:Deep Learning with FPGAs (Americas Session)
+UID:48db8430-bba4-49bb-9b06-b494ea849953@48db.org
+DESCRIPTION:In this webinar\, you will learn about the basics of 
+ convolutional neural networks as well as deep learning training\, 
+ inferencing\, and implementation at the edge using an FPGA. You'll also 
+ learn about the AMD-Xilinx FPGA hardware and software stack for 
+ inferencing as provided within the Vitis AI Development 
+ Kit.\nhttps://www.doulos.com/partner-webinars/deep-learning-with-fpgas-
+ xilinx\n\nDoulos\, John Aynsley\nOn demand available: Probably YES
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220427T120000
+DTEND;TZID="UTC+03:00":20220427T130000
+SUMMARY:Building Safe and Secure Arm Cortex-M Applications
+UID:63b2000a-1711-4995-b876-2dcdd8bfca32@63b2.org
+DESCRIPTION:Historically\, safety and security have been issues focussed on
+  application or real-time processors\, but with the recent arrival of 
+ high-frequency and edge devices it has become critical within 
+ microcontrollers too. Where software assets protection\, system IP 
+ security\, and dynamic memory management had sometimes been treated as an 
+ afterthought\, these aspects are now considered fundamental for sound\, 
+ future-proof firmware development.\n\nThe Arm® v-8M architecture has been 
+ designed to enable essential security features in the latest processors 
+ whilst retaining an efficient\, deterministic code base.\n\nIn this 
+ webinar we will:\n\nexamine the modern micro-architectural features 
+ available with Arm Cortex®-M that can be used to improve the overall 
+ quality of embedded designs\ncontrast the features found inside the latest
+  Arm v-8M processors (such as the Cortex-M33) with the established 
+ Cortex-M3/M4\nhighlight the relatively simple steps needed to include 
+ safety features provided by the Cortex-M33. This will be illustrated using
+  NXP's MCUXpresso development 
+ environment.\n\nhttps://www.doulos.com/webinars/building-safe-secure-arm-
+ cortex-m-applications/\n\nDoulos\, Dr David Cabanis\nOn demand available: 
+ Probably YES
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220427T200000
+DTEND;TZID="UTC+03:00":20220427T210000
+SUMMARY:Building Safe and Secure Arm Cortex-M Applications
+UID:1b001cde-df7e-4672-ac2d-2aeca96253b4@1b00.org
+DESCRIPTION:Historically\, safety and security have been issues focussed on
+  application or real-time processors\, but with the recent arrival of 
+ high-frequency and edge devices it has become critical within 
+ microcontrollers too. Where software assets protection\, system IP 
+ security\, and dynamic memory management had sometimes been treated as an 
+ afterthought\, these aspects are now considered fundamental for sound\, 
+ future-proof firmware development.\n\nThe Arm® v-8M architecture has been 
+ designed to enable essential security features in the latest processors 
+ whilst retaining an efficient\, deterministic code base.\n\nIn this 
+ webinar we will:\n\nexamine the modern micro-architectural features 
+ available with Arm Cortex®-M that can be used to improve the overall 
+ quality of embedded designs\ncontrast the features found inside the latest
+  Arm v-8M processors (such as the Cortex-M33) with the established 
+ Cortex-M3/M4\nhighlight the relatively simple steps needed to include 
+ safety features provided by the Cortex-M33. This will be illustrated using
+  NXP's MCUXpresso development 
+ environment.\n\nhttps://www.doulos.com/webinars/building-safe-secure-arm-
+ cortex-m-applications/\n\nDoulos\, Dr David Cabanis\nOn demand available: 
+ Probably YES
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220427T170000
+DTEND;TZID="UTC+03:00":20220427T180000
+SUMMARY:Introduction to AI Applications using Kria SoM
+UID:5cc7d51d-4958-4001-8387-ed7c80f84b2e@5cc7.org
+DESCRIPTION:Using AI on FPGAs might be new to you. This webinar describes 
+ the usage and steps needed to have an easy start with AI applications on 
+ the Xilinx Kria KV260. Using the Model Zoo from Xilinx as a starting point
+  for image detection\, counting and tracking will be demonstrated and 
+ further elaborated in addition to the capabilities of the 
+ KV260.\nhttps://www.plc2.com/en/training/detail/introduction-to-ai-
+ applications-using-kria-som-webinar\n\nPLC2\nOn demand available: YES
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220429T120000
+DTEND;TZID="UTC+03:00":20220429T130000
+SUMMARY:Python Coding Guidelines and Idioms
+UID:2fbc77b9-7ce5-4ee0-bcbf-60c2e79d41b3@2fbc.org
+DESCRIPTION:This webinar\, by Doulos Co-Founder & Technical Fellow John 
+ Aynsley\, will give you four things:\n\nA set of Python coding 
+ guidelines\, which you can start using right away or use as a basis for 
+ creating your own project-specific coding guidelines.\nExamples of how to 
+ write Pythonic code\, that is\, Python written in the style Python was 
+ meant to be written\, as opposed to writing code using Python syntax but 
+ in the style of some other programming language.\nA Python tutorial along 
+ the way\, for those who are beginners in Python or who are more familiar 
+ with some other programming language.\nA Jupyter Notebook to take away 
+ that contains all the guidelines and runnable code examples shown in the 
+ webinar\, and a few more besides.\n\nThe webinar is presented in 
+ partnership with Toradex and concludes with a brief overview of the 
+ Toradex board portfolio and Torizon software 
+ platform.\n\nhttps://www.doulos.com/webinars/python-coding-guidelines-and-
+ idioms/\n\nDoulos\, John Aynsley\nOn demand available: Probably YES
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220429T200000
+DTEND;TZID="UTC+03:00":20220429T210000
+SUMMARY:Python Coding Guidelines and Idioms
+UID:00e18412-ae76-4bf5-90b4-6bd3d88b70dd@00e1.org
+DESCRIPTION:This webinar\, by Doulos Co-Founder & Technical Fellow John 
+ Aynsley\, will give you four things:\n\nA set of Python coding 
+ guidelines\, which you can start using right away or use as a basis for 
+ creating your own project-specific coding guidelines.\nExamples of how to 
+ write Pythonic code\, that is\, Python written in the style Python was 
+ meant to be written\, as opposed to writing code using Python syntax but 
+ in the style of some other programming language.\nA Python tutorial along 
+ the way\, for those who are beginners in Python or who are more familiar 
+ with some other programming language.\nA Jupyter Notebook to take away 
+ that contains all the guidelines and runnable code examples shown in the 
+ webinar\, and a few more besides.\n\nThe webinar is presented in 
+ partnership with Toradex and concludes with a brief overview of the 
+ Toradex board portfolio and Torizon software 
+ platform.\n\nhttps://www.doulos.com/webinars/python-coding-guidelines-and-
+ idioms/\n\nDoulos\, John Aynsley\nOn demand available: Probably YES
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220503T170000
+DTEND;TZID="UTC+03:00":20220503T180000
+SUMMARY:Vitis AI - Creating an Edge Inference Solution
+UID:04f6fcf4-65d4-440a-93e3-204ab156a217@04f6.org
+DESCRIPTION:FPGA-Based Deep Learning (DNN) Accelerator\n\nRecent research 
+ in the Artificial Intelligence domain have shown significant advantage in 
+ Machine learning over traditional algorithms based on handcrafted features
+  and models. Along with availability of credible data and computation 
+ resources\, researchers are using layered Neural Networks (Deep Learning) 
+ for solving various image\, speech and video recognition tasks. But the 
+ high computation and storage complexity of neural network inference impose
+  great challenges for effective application. Besides\, CPUs and GPUSs\, 
+ FPGAs are becoming a platform candidate to achieve energy efficient neural
+  network processing. In this webinar\, we will cover Xilinx strategies to 
+ accelerate these algorithms for real-time inference on their 
+ hardware.\n\nhttps://www.plc2.com/en/training/detail/vitis-ai-creating-an-
+ edge-inference-solution-webinar\n\nPLC2\nOn demand available: YES
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220504T200000
+DTEND;TZID="UTC+03:00":20220504T210000
+SUMMARY:The Keys to SystemC & TLM-2.0: How to be Successful
+UID:45eaab15-55eb-49d3-b831-812ce6b8165f@45ea.org
+DESCRIPTION:SystemC has become well-established as the language of choice 
+ for system modeling and virtual platform creation and integration\, and is
+  now being applied successfully for high level synthesis. SystemC models 
+ also frequently appear as reference models in the hardware verification 
+ flow.\n\nThis session is aimed at hands-on hardware or software engineers 
+ who might know Verilog or C but have no previous experience of SystemC. It
+  will explain what you need to know to be successful with SystemC by 
+ exploring some fundamental questions including:\n\nWhat is SystemC and how
+  is it used?\nWhat does modern SystemC code look like?\nWhat 
+ differentiates SystemC from SystemVerilog?\nWhat use cases best fit 
+ SystemC?\nWhat is TLM?\nWhere can I learn more?\n\nThe session will be 
+ presented by David C Black\, Doulos Senior Member of Technical Staff and 
+ co-author of "SystemC: From the Ground Up". It will consist of a one-hour 
+ session\, (see below for details) and will be interactive with Q&A 
+ participation from delegates.\n\nhttps://www.doulos.com/webinars/the-keys-
+ to-systemc-tlm-20/\n\nhttps://register.gotowebinar.com/register/4595733626
+ 782770188\nOR\nhttps://register.gotowebinar.com/register/44339272966160238
+ 23\n\nDoulos\, David C Black\nOn demand available: Probably 
+ YES\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220505T210000
+DTEND;TZID="UTC+03:00":20220505T220000
+SUMMARY:Developing Algorithms for the Versal ACAP: Host Optimization
+UID:78491be2-b052-4be4-a150-e6b7b7ad4181@7849.org
+DESCRIPTION:As the demands on compute performance increase across many 
+ applications\, more emphasis is being placed on higher levels of 
+ optimization for the algorithms being implemented.\n\nThis webinar will 
+ examine methodologies for host optimization in the Versal ACAP device. The
+  Versal ACAP is a heterogeneous compute platform containing multiple 
+ resources enabling different models of computation to be implemented very 
+ efficiently. We will investigate processing capabilities in the Versal 
+ ACAP device and options for implementing functions using the Vitis 
+ Software Platform and the Vivado ML design suite. We will also explore 
+ optimization methodologies and best practices when architecting these 
+ highly complex systems.\n\nAttendees will learn how code vectorization\, 
+ compiler directives\, and C coding style can all be used to provide host 
+ optimization. Device resource utilization and code profiling will also be 
+ discussed.\n\nIn this webinar\, you will:\n\n- See how to use Xilinx tools
+  to explore\, profile\, and optimize host code and hardware acceleration 
+ kernels\n- Learn about Xilinx software analysis and simulation flows\n\nht
+ tps://register.gotowebinar.com/register/2747008177781623312\n\nHardent\, 
+ Reg Zatrepalek\nOn demand available: UNKNOWN
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220506T200000
+DTEND;TZID="UTC+03:00":20220506T210000
+SUMMARY:How to Improve Embedded Software using State Machines
+UID:3b14a801-b67c-407a-a476-e6cdc00f25fa@3b14.org
+DESCRIPTION:In this webinar\, you will learn to identify when and where to 
+ use flowcharts vs. state machines in your software designs.\n\nFlowcharts 
+ tend to be overused when designing software\, especially when trying to 
+ manage more complex embedded applications. You will be given a brief 
+ history of flowcharts and state machines along with an overview of the 
+ Unified Modeling Language (UML). The webinar will emphasize the use of 
+ state machines for designing and implementing stateful embedded software 
+ in a variety of potential 
+ applications.\n\nhttps://www.doulos.com/webinars/how-to-improve-embedded-
+ software-using-state-machines/\n\nhttps://register.gotowebinar.com/registe
+ r/4557371666090266640\nOR\nhttps://register.gotowebinar.com/register/14485
+ 21230251292430\n\nDoulos\, Michael Wilk\nOn demand available: Probably 
+ YES\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220510T010000
+DTEND;TZID="UTC+03:00":20220510T230000
+SUMMARY:DEADLINE: ASYNC 2022 Summer School
+UID:cc7044e5-e457-4f8c-8707-b0a36cf4b543@cc70.org
+DESCRIPTION:The steering committee of the IEEE ASYNC symposium is 
+ organizing a summer school on asynchronous design.  The goal of the school
+  is to teach asynchronous chip design to students and practitioners 
+ interested in digital hardware design.  Participants will learn how to 
+ design asynchronous circuits at the behavioral level\, gate level\, and 
+ physical design level using design automation tools and the Skywater 130 
+ open-source PDK.\n\nhttps://asyncsymposium.org/async2022/\n\nIEEE 
+ ASYNC\nOn demand available: Probably YES\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220513T200000
+DTEND;TZID="UTC+03:00":20220513T210000
+SUMMARY:Defining Timing Constraints using SDC
+UID:b06e0f56-c697-4baf-99ee-58eb942458c4@b06e.org
+DESCRIPTION:This webinar will help you get started with building timing 
+ constraints for your digital design using the industry standard Synopsys 
+ Timing Constraints (SDC) format.\n\nAs well as getting an overview of what
+  SDC is and the basic terminology\, you will learn how to define clocks\, 
+ how to set up timing for the I/Os and how to define exceptions like false-
+ paths and multicycle-paths\; everything you need to set up timing in a 
+ simple design.\n\n...\n\nThe webinar will also feature a working SDC 
+ example design by Microchip applied to a PolarFire FPGA using the Libero 
+ SoC Design Suite.\n\nhttps://www.doulos.com/webinars/defining-timing-
+ constraints-using-sdc/\n\nhttps://register.gotowebinar.com/register/639375
+ 3996568458256\nOR\nhttps://register.gotowebinar.com/register/3469396114312
+ 507659\n\nDoulos\nOn demand available: Probably YES\nRegistration: 
+ REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220518T200000
+DTEND;TZID="UTC+03:00":20220518T210000
+SUMMARY:Rapid Creation of Edge AI Solutions on an FPGA
+UID:ec4fa261-70cb-403e-9ec4-f95c84fa2795@ec4f.org
+DESCRIPTION:This webinar will explore ideas on identifying and deploying 
+ trained AI models on FPGAs. Doulos Member Technical Staff\, Dr Rahul 
+ Dubey\, will discuss contemporary software tools and APIs which help in 
+ putting together an FPGA based Edge AI solution.\n\nWe will be using the 
+ Xilinx PYNQ™ Python based Hardware/Software stack on FPGA based System-on-
+ Module platforms as an 
+ illustration.\n\n...\n\nhttps://www.doulos.com/webinars/rapid-creation-of-
+ edge-ai-solutions-on-an-fpga/\n\nhttps://register.gotowebinar.com/register
+ /8350728563470025230\nOR\nhttps://register.gotowebinar.com/register/865427
+ 4037084907276\n\nDoulos\, Rahul Dubey\nOn demand available: Probably 
+ YES\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220520T110000
+DTEND;TZID="UTC+03:00":20220520T170000
+SUMMARY:Designing with the IP Integrator Tool
+UID:310d3cdf-2894-45a4-927a-0788306d8780@310d.org
+DESCRIPTION:ONE DAY FREE WORKSHOP\n\nThis free course will help you learn 
+ about the IP Integrator Tool learn it's features and gain the expertise 
+ needed to develop\, implement\, and debug different IP block designs. Use 
+ the IP integrator to add and configure the Versal ACAP CIPS block and 
+ export the generated hardware and configure the AXI NoC to access DDR 
+ memory controllers in Versal ACAP devices.\n\nMore info and 
+ registration:\n\nhttps://www.core-vision.nl/events/free-training-
+ designing-with-the-ip-integrator-tool/?lang=en\n\nDoulos & AMD/Xilinx\, 
+ Core|Vision\nOn demand available: UNKNOWN\nRegistration: REQUIRED (Also 
+ should be confirmed by organizer after registration)
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220525T200000
+DTEND;TZID="UTC+03:00":20220525T210000
+SUMMARY:Using Python to Implement a Complete Machine Learning Flow
+UID:3a2b0c26-bee9-4960-a853-e1e9c90bd187@3a2b.org
+DESCRIPTION:In this webinar we will take a fresh look at both Python and 
+ Machine Learning.\n\nWe will show how to implement\, train\, and run a 
+ simple neural network model\, taking advantage of the Keras API used by 
+ TensorFlow\, because very few people code neural networks from scratch in 
+ Python these days. Along the way\, we will describe some of the machine 
+ learning principles being used\, although the focus here is on the 
+ coding\, not the theory.\n\nThe webinar will explore the Python language 
+ features needed both to prepare datasets and to code and train neural 
+ network models and examine the options available for using Python across 
+ the whole machine learning flow\, from data gathering and curation through
+  model training to 
+ deployment.\n\n...\n\nhttps://www.doulos.com/webinars/using-python-to-
+ implement-a-complete-machine-learning-flow/\n\nhttps://register.gotowebina
+ r.com/register/4939168282851727630\nOR\nhttps://register.gotowebinar.com/r
+ egister/6135927316057890316\n\nDoulos\, John Aynsley\nOn demand available:
+  Probably YES\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220525T100000
+DTEND;TZID="UTC+03:00":20220525T120000
+SUMMARY:(TR) ASIC/FPGA Tasarımına Giriş
+UID:400c1e5d-4a7b-44c2-9f35-5ff1a90edf82@400c.org
+DESCRIPTION:TURKISH/TÜRKÇE\n\nSayısal tasarımın temelleri\, ağırlıklı 
+ olarak yeni başlayan kişilere yönelik.\n\nhttps://forms.office.com/Pages/R
+ esponsePage.aspx?id=PrmpCZYxkEiGHWiuWdNdZ044K4KXg-
+ hOiLiJL3T1uSlUMEE1VlQzQlpXTkNOTkRRS085OU5DSEg2UiQlQCN0PWcu\n\nElectraIC\, 
+ Ateş Berna\nSonradan erişilebilir: BİLİNMİYOR\nKayıt: GEREKLİ
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220526T140000
+DTEND;TZID="UTC+03:00":20220526T180000
+SUMMARY:Versal ACAP Workshop ONLINE (1/2)
+UID:2c3f8ee8-de39-4ba4-a035-a4cb6af2776e@2c3f.org
+DESCRIPTION:It is available to attend FREE OF CHARGE (Usual price $990 / 
+ €840)\n\nThe Xilinx Versal ACAP platform is multi-featured\, offering 
+ unprecedented system level performance and integration.\n\nThis 
+ informative workshop (delivered in 2 half day sessions) is a comprehensive
+  and practical introduction to the features and capabilities.\n\nWe'll 
+ first cover the broader Versal ACAP device.  We'll then focus on a 
+ practical example\, optimizing a given application for the AI Engine 
+ resources.\n\n...\n\nhttps://www.doulos.com/training/fpga-and-hardware-
+ design/xilinx/versal-acap-workshop-online/\n\nhttps://register.gotowebinar
+ .com/register/2650391892817854220\nOR\nhttps://register.gotowebinar.com/re
+ gister/4856267304834083342\n\nDoulos\nOn demand available: Probably 
+ NO\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220527T140000
+DTEND;TZID="UTC+03:00":20220527T180000
+SUMMARY:Versal ACAP Workshop ONLINE (2/2)
+UID:b078d637-60cc-4357-97bd-41e3b080d4e8@b078.org
+DESCRIPTION:It is available to attend FREE OF CHARGE (Usual price $990 / 
+ €840)\n\nThe Xilinx Versal ACAP platform is multi-featured\, offering 
+ unprecedented system level performance and integration.\n\nThis 
+ informative workshop (delivered in 2 half day sessions) is a comprehensive
+  and practical introduction to the features and capabilities.\n\nWe'll 
+ first cover the broader Versal ACAP device.  We'll then focus on a 
+ practical example\, optimizing a given application for the AI Engine 
+ resources.\n\n...\n\nhttps://www.doulos.com/training/fpga-and-hardware-
+ design/xilinx/versal-acap-workshop-online/\n\nhttps://register.gotowebinar
+ .com/register/2650391892817854220\nOR\nhttps://register.gotowebinar.com/re
+ gister/4856267304834083342\n\nDoulos\nOn demand available: Probably 
+ NO\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220530T140000
+DTEND;TZID="UTC+03:00":20220530T170000
+SUMMARY:Fast and easy hardware testing using JTAG Boundary Scan
+UID:63d3207c-077e-4236-82bf-7101356fbc4b@63d3.org
+DESCRIPTION:Testing your high-density circuit boards is time consuming and 
+ expensive? Now is the time to learn how you can quickly find and fix 
+ faults on your electronics using JTAG testing.\n\nThis 2 to 3 hour webinar
+  is designed to provide PCB design\, development\, test\, and production 
+ engineers with a hands-on introduction to JTAG boundary scan\, using real 
+ hardware.\n\nHeld for attendees based in Turkey & Middle East. Presented 
+ in English.\n\nhttps://www.xjtag.com/company/events/webinar-
+ registration/?webinar_id=966607482644485648\n\nXJTAG\nOn demand available:
+  UNKNOWN\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220601T180000
+DTEND;TZID="UTC+03:00":20220601T190000
+SUMMARY:Democratization of Digital-Centric Methodologies for Analog and 
+ Mixed-Signal Verification
+UID:8ffc3205-7089-4c25-b46e-b8b43498ee4e@8ffc.org
+DESCRIPTION:In this session we will discuss about these digital-centric 
+ mixed signal verification methodologies to improve SoC verification 
+ throughput and improve time to market.\n\nThe digitalization trend is 
+ resulting in increased semiconductor content in everything from 
+ automobiles to appliances to factories. Chips are getting bigger\, 
+ better\, and more sophisticated. As designs complexity has multiplied\, 
+ verification complexity has exploded. Verification has become an art of 
+ applying many unique methodologies for each of the different classes of 
+ sub-design within a design. The advent of new technologies — such as 
+ constrained-random data generation\, assertion-based verification\, 
+ coverage-driven verification\, formal model checking and Intelligent 
+ Testbench Automation to name a few — have changed the way we see 
+ functional verification productivity. However\, most of these advanced new
+  technologies have not been extended to verify mixed signal design 
+ challenges.\n\nAttend this session and learn how digital-centric mixed-
+ signal verification methodologies including real number modeling\, UVM-AMS
+  and UPF-MS can be used to improve SoC verification throughput and improve
+  time to market.\n\nhttps://event.on24.com/wcc/r/3771889/AA44D616A31C1E464
+ 19A7192C01536D8\n\nMicrochip and Siemens EDA\nOn demand available: 
+ UNKNOWN\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220601T200000
+DTEND;TZID="UTC+03:00":20220601T210000
+SUMMARY:Become an SVA Expert in One Hour
+UID:c1de2792-a272-4b23-b8d5-58723be869ee@c1de.org
+DESCRIPTION:Doulos Co-Founder & Technical Fellow John Aynsley will teach 
+ the core principles necessary to understand and use SystemVerilog 
+ Assertions\, focussing on the aspects of SVA that are applicable to both 
+ formal verification and simulation.\n\nParticular emphasis will be placed 
+ on the core semantics of temporal logic so that you will be able to write 
+ your own assertions\, understand what you are doing\, and avoid the many 
+ pitfalls that trap beginners.\n\nSVA is really not hard if you approach it
+  properly!\n\nhttps://www.doulos.com/webinars/become-an-sva-expert-in-one-
+ hour/\n\nhttps://register.gotowebinar.com/register/7467971359457884687\nOR
+ \nhttps://register.gotowebinar.com/register/1152592073791552528\n\nDoulos\
+ , John Aynsley\nOn demand available: Probably YES\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220607T170000
+DTEND;TZID="UTC+03:00":20220607T180000
+SUMMARY:Introducing the Kria Robotics Starter Kit
+UID:28460e19-5b4a-4ebc-8357-b42fcd74ba12@2846.org
+DESCRIPTION:Hardware accelerate your next ROS 2 and machine vision 
+ designs\n\nThe Kria KR260 Robotics Starter Kit is the latest addition to 
+ the Kria portfolio of adaptive system-on-modules (SOMs) and developer 
+ kits.\n\n...\n\nhttps://pages.xilinx.com/EN-WB-2022-06-07-KR260Intro_LP-
+ Registration.html\n\nAMD (Xilinx)\nOn demand available: 
+ UNKNOWN\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220608T180000
+DTEND;TZID="UTC+03:00":20220608T214000
+SUMMARY:Customers Discuss their Real-World use of HLS (1/2)
+UID:54fa95d0-4514-4be7-9c48-e44d54f971fb@54fa.org
+DESCRIPTION:2 days virtual seminar from Siemens (Mentor Graphics) about 
+ customer experiences on their Catapult HLS.\n\nThe focus of this seminar 
+ is to have real-world customers present their successes using Catapult 
+ High-Level Synthesis (HLS) in markets such as Automotive\, 
+ 5G/Communications\, Video/Imaging\, AI/ML\, and MEMs Sensors.\n\nCheckout 
+ the event page to see list of attending companies.\n\nhttps://event.on24.c
+ om/wcc/r/3774063/28921B4E11521F45F9A61047F0A37F1C\n\nMany speakers\, Many 
+ companies\nOn demand available: Unkown\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220609T180000
+DTEND;TZID="UTC+03:00":20220609T210000
+SUMMARY:Customers Discuss their Real-World use of HLS (2/2)
+UID:02f4d947-27e9-4c64-b84a-6f8c2f27b1c3@02f4.org
+DESCRIPTION:2 days virtual seminar from Siemens (Mentor Graphics) about 
+ customer experiences on their Catapult HLS.\n\nThe focus of this seminar 
+ is to have real-world customers present their successes using Catapult 
+ High-Level Synthesis (HLS) in markets such as Automotive\, 
+ 5G/Communications\, Video/Imaging\, AI/ML\, and MEMs Sensors.\n\nCheckout 
+ the event page to see list of attending companies.\n\nhttps://event.on24.c
+ om/wcc/r/3774063/28921B4E11521F45F9A61047F0A37F1C\n\nMany speakers\, Many 
+ companies\nOn demand available: Unkown\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220615T180000
+DTEND;TZID="UTC+03:00":20220615T190000
+SUMMARY:Lint vs Formal AutoCheck
+UID:b4faa9a2-3818-49dd-855d-c74bc2fc3772@b4fa.org
+DESCRIPTION:Which is better – linting tools or formal auto checking tools? 
+ Backers of either hold ardent opinions of their relative merits\, and like
+  a proverbial cage match\, would love to see their champion emerge as the 
+ winner in a contest of verification tools.\n\nIn this session you will 
+ gain an understanding of the similarities and differences between Lint and
+  Formal AutoChecking tools\, and how they can be used together to increase
+  the quality of RTL deliverables.\n\nhttps://event.on24.com/wcc/r/3735573/
+ 9ECE262AA33CB2257A6BC5D7767A2B68\n\nSiemens EDA\nOn demand available: 
+ Unkown\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220615T200000
+DTEND;TZID="UTC+03:00":20220615T210000
+SUMMARY:Debugging Features of UVM
+UID:cc1a916f-d391-4939-9434-d900db9faa99@cc1a.org
+DESCRIPTION:A UVM testbench is a large and complex piece of software. At 
+ some stage\, like any other large and complex piece of software\, a 
+ verification environment written using UVM is going to require debugging. 
+ There are various debugging features built into UVM to help with 
+ this.\n\nIn this webinar Doulos Senior Member Technical Staff\, Doug 
+ Smith\, explores the various features in UVM to help you debug your UVM 
+ environment\, your test cases\, and your design under test.\n\nNote: Two 
+ time slots are available\, visit the event 
+ page\n\nhttps://www.doulos.com/webinars/debugging-features-of-
+ uvm/\n\nDoulos\nOn demand available: PROBABLY YES\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220616T170000
+DTEND;TZID="UTC+03:00":20220616T180000
+SUMMARY:Migrating Your CUDA Code to Vitis Accelerated Kernels Made Simple
+UID:8ecc881b-bf90-403a-be16-b984ff6dfb8b@8ecc.org
+DESCRIPTION:Join us to learn how to port CUDA kernels for GPUs to the 
+ Vitis™ unified software platform and its high-level synthesis (HLS) 
+ technology.\n\nDuring the session\, we’ll demonstrate the Vitis HLS tool 
+ and interpret the results based on a dot product kernel example that we 
+ compare to CUDA.\n\nhttps://pages.xilinx.com/EN-
+ WB-2022-06-16-CUDAMigration_LP-Registration.html\n\nAMD (Xilinx)\nOn 
+ demand available: UNKNOWN\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220617T200000
+DTEND;TZID="UTC+03:00":20220617T210000
+SUMMARY:Getting Started with Embedded Linux Security
+UID:57255b04-477e-4180-8478-022474a0bd9f@5725.org
+DESCRIPTION:In this webinar we examine some of the main features and tools 
+ which can be used to make your embedded Linux system more secure. We can 
+ see how features of the compiler\, the kernel and Linux user space can be 
+ used to satisfy the requirements of one of the main security standards 
+ used for consumer electronic devices.\nWe also review some of the hardware
+  features provided by SoC vendors to increase security\, using the Xilinx 
+ Versal ACAP (Adaptive Compute Acceleration Platform) as an 
+ example.\n\nNote: Two time slots are available\, visit the event 
+ page\n\nhttps://www.doulos.com/webinars/getting-started-with-embedded-
+ linux-security/\n\nDoulos\nOn demand available: PROBABLY 
+ YES\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220620T210000
+DTEND;TZID="UTC+03:00":20220620T220000
+SUMMARY:Embedded Software Design Techniques
+UID:3c540e71-ee40-4fa6-9b86-83c57732ce02@3c54.org
+DESCRIPTION:1 hour course for 5 days\n\nDay 1: Software Architectures 
+ 101\nDay 2: Designing RTOS-Based Applications\nDay 3: Architecture 
+ Verification Techniques\nDay 4: Designing Quality into Embedded 
+ Systems\nDay 5: Software Configuration Management 
+ Techniques\n\nhttps://www.designnews.com/continuing-education-
+ center\n\nJacob Beningo\nOn demand available: UNKOWN\nRegistration: 
+ REQUIRED
+DTSTAMP:20221014T062458Z
+RRULE:FREQ=DAILY;UNTIL=20220624T235959
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220621T210000
+DTEND;TZID="UTC+03:00":20220621T220000
+SUMMARY:Cost-Optimized FPGAs and Adaptive SoCs for Low Power Designs
+UID:bba625bd-2f6b-46a0-8da4-8d3be4fbb8b2@bba6.org
+DESCRIPTION:This webinar introduces the Xilinx® UltraScale+™ Cost-Optimized
+  Portfolio (COP) and discusses implementing machine vision and secure 
+ wireless communication applications with greater power 
+ efficiency.\n\nNote: Two time slots are available\, visit the event 
+ page\n\nhttps://pages.xilinx.com/EN-WB-2022-06-21-LowPowerCOP7am_LP-
+ Registration.html\n\nAMD (Xilinx)\nOn demand available: 
+ UNKNOWN\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220623T203000
+DTEND;TZID="UTC+03:00":20220623T220000
+SUMMARY:(Turkish) Modern C++ ile Sürdürülebilir Yazılım Mimarisi
+UID:3e7b3adc-7332-4da7-9d34-c4940b7b2229@3e7b.org
+DESCRIPTION:Mil-DDS gibi ülkemize hizmet için geliştirilen yazılımların 
+ geliştiricilerinden olan Hüseyin Kutluca\,\n23 Haziran Perşembe günü saat 
+ 20:30'da "Modern C++ ile Sürdürülebilir Yazılım Mimarisi" sunumu ile 
+ aramızda olacak.\n\nEtkinliğimize katılmak için YouTube linki üzerinden 
+ hatırlatıcı 
+ oluşturabilirsiniz.\n\nhttps://www.youtube.com/watch?v=BA5xCET-
+ pJc\n\nHüseyin Kutluca. Türkiye C++ Topluluğu (Turkey Cpp)\nSonra 
+ izlenebilir: EVET\nKayıt: GEREKMİYOR
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220624T200000
+DTEND;TZID="UTC+03:00":20220624T210000
+SUMMARY:Clock Domain Crossing
+UID:f4a71119-38dd-4026-b7ed-aaa64e8f9df4@f4a7.org
+DESCRIPTION:The primary goal in safely implementing any IC or FPGA project 
+ is to achieve a synchronous design. This implies that the relationship of 
+ all clocks and asynchronous resets to each other is defined in the 
+ synthesis constraints.\nIncorrect handling of clock-domain crossing (CDC) 
+ is probably the primary cause of sporadic errors\, which are impossible to
+  catch in a digital simulation and can cause a system to inexplicably fail
+  in the field.\n\nThis webinar discusses situations in which CDC problems 
+ can occur and more importantly presents solutions for the most frequent 
+ scenarios.\n\nNote: Two time slots are available\, visit the event 
+ page\n\nhttps://www.doulos.com/webinars/clock-domain-
+ crossing/\n\nDoulos\nOn demand available: PROBABLY YES\nRegistration: 
+ REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220627T100000
+DTEND;TZID="UTC+03:00":20220627T180000
+SUMMARY:Vision KRIA SOM
+UID:f0b9c6b4-4ad0-4296-bc3f-112f8686480b@f0b9.org
+DESCRIPTION:LIVE Online WORKSHOP\n\nXilinx Kria System-on-Module (SOM) 
+ Overview\nXilinx Kria KV260 Vision AI Starter Kit Overview\nGetting 
+ Started with the Vision AI Starter Kit\nIntroduction to Vitis Video 
+ Analytics SDK (VVAS)\nAccelerating Applications with the KV260 Vision AI 
+ Starter\nBuilding the Hardware and Software Design Components\nCustomizing
+  the AI Models\nKria SOM Carrier Card Design Guide\n\nhttps://www.so-logic
+ .net/en/training_courses/xilinx/vision_kria_som_live_online_workshop\n\nso
+ -logic\nOn demand available: Unkown\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220628T180000
+DTEND;TZID="UTC+03:00":20220628T190000
+SUMMARY:What's New in Vitis AI 2.5
+UID:067b93aa-b8f5-4f91-8a13-a76aa1c55ca1@067b.org
+DESCRIPTION:The Vitis AI development environment is a development platform 
+ for artificial intelligence (AI) inference on AMD-Xilinx hardware 
+ platforms such as FPGAs\, adaptive SoCs\, and Alveo data center 
+ accelerator cards.\n\nIn this webinar\, we introduce new features in the 
+ latest 2.5 release\, including:\n\nNew convolutional neural network (CNN) 
+ and non-CNN algorithm models\nAI quantizer updates and model 
+ inspector\nExpanded support for new frameworks and walkthrough of the in-
+ framework inference flow WeGO\nNew functions for the edge-end and data 
+ center deep learning acceleration engine\n\nhttps://pages.xilinx.com/EN-
+ WB-2022-06-28-VitisAI2.5_LP-Registration.html\n\nXilinx (AMD)\nOn demand 
+ available: Unkown\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220629T170000
+DTEND;TZID="UTC+03:00":20220629T180000
+SUMMARY:Secure Boot Features and Secure Boot Overview for Xilinx Versal 
+ ACAP
+UID:d9d6c7f4-c84f-4cbf-a6ad-8d43226a7b72@d9d6.org
+DESCRIPTION:In the beginning of this session the security core functions 
+ will be described that support encryption and decryption\, 
+ authentication\, and key management. The differences of Asymmetric 
+ Hardware Root-of-Trust (A-HWRoT) and Symmetric Hardware Root-of-Trust 
+ (S-HWRoT) are explained.\n\nhttps://register.gotowebinar.com/register/3153
+ 584488447943950\n\nPLC2\nOn demand available: YES\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220629T200000
+DTEND;TZID="UTC+03:00":20220629T210000
+SUMMARY:OSTree for Embedded Linux Distribution
+UID:4002da7b-c657-4f4e-bd35-10f83b4b86a7@4002.org
+DESCRIPTION:OSTree is a library widely adopted for the implementation of 
+ robust and secure frameworks for over-the-air (OTA) updates of Embedded 
+ Linux systems.\nOSTree introduces a number of novel and potentially 
+ challenging techniques\, even for experienced developers familiar with a 
+ more traditional embedded Linux distribution.\nFor example\, OSTree allows
+  for multiple Linux distributions to be stored on a single filesystem and 
+ each modified root filesystem (tree) is committed to a Git-like 
+ repository.\n\nNote: Two time slots are available\, visit the event 
+ page\n\nhttps://www.doulos.com/webinars/ostree-for-embedded-linux-
+ distribution/\n\nDoulos\nOn demand available: PROBABLY YES\nRegistration: 
+ REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220701T200000
+DTEND;TZID="UTC+03:00":20220701T210000
+SUMMARY:Anatomy of an Embedded Linux System
+UID:bc57de80-9e65-4a25-8b3b-6e9451131954@bc57.org
+DESCRIPTION:Are you considering using Linux on your next embedded system 
+ project?\nDo you want to find out more about what using embedded Linux 
+ means in practice?\n\nThis webinar will discuss each of the components 
+ required for Linux to work on an embedded system:\n\nLinux 
+ kernel\nToolchain\nBootloader\nFilesystem\n\nNote: Two time slots are 
+ available\, visit the event 
+ page\n\nhttps://www.doulos.com/webinars/anatomy-of-an-embedded-linux-
+ system-renesas/\n\nDoulos\nOn demand available: PROBABLY 
+ YES\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220707T170000
+DTEND;TZID="UTC+03:00":20220707T180000
+SUMMARY:Go Spartan-7! Rapid Prototyping with the SP701 Evaluation Kit
+UID:7ac56dec-14ff-48e9-b993-4db7514ab3eb@7ac5.org
+DESCRIPTION:Looking for processing power and flexible connectivity at low 
+ cost? How about a design path that doesn’t need hardware expertise?\n\nIn 
+ this webinar\, you’ll learn how the Spartan®-7 family delivers processor 
+ scalability\, any-to-any connectivity\, sensor fusion\, and custom 
+ hardware acceleration—all at a low-cost entry-point.\n\nUsing a push-
+ button and plug-and-play flow\, we’ll show how you can rapidly prototype 
+ an embedded system as a microcontroller\, real-time processor\, or 
+ application processor on the SP701 Evaluation 
+ Kit.\n\nhttps://pages.xilinx.com/EN-WB-2022-07-07-SP701Rebroadcast_LP-
+ Registration.html\n\nXilinx (AMD)\nOn demand available: PROBABLY 
+ YES\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220721T180000
+DTEND;TZID="UTC+03:00":20220721T200000
+SUMMARY:Mastering MicroBlaze
+UID:354845db-1329-4a91-a722-f196bf095b53@3548.org
+DESCRIPTION:Within many FPGA you will find a MicroBlaze processor doing 
+ some of the heavy lifting for communication\, register / IP configuration 
+ or house keeping. Without these processors\, our jobs as FPGA designers 
+ would be even more complex.\n\nIn this hands-on workshop we are going to 
+ create\, develop\, and deploy a MicroBlaze solution that will work in any 
+ Xilinx 7 series device or newer.\n\nhttps://app.livestorm.co/adiuvo-
+ engineering/mastering-microblaze\n\nAdam Taylor and Xilinx (AMD)\nOn 
+ demand available: UNKNOWN\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220908T180000
+DTEND;TZID="UTC+03:00":20220908T200000
+SUMMARY:Getting started with Nios V and Ashling RiscFree IDE for Intel 
+ FPGAs
+UID:8da930ca-8312-484e-a03e-9cd7b8b3db65@8da9.org
+DESCRIPTION:NIOS-V is the RISC-V Implementation for Intel FPGAs replacing 
+ the extremely popular NIOS-2\n\nhttps://app.livestorm.co/adiuvo-
+ engineering/navigating-nios-v\n\nAdam Taylor\nOn demand available: 
+ UNKNOWN\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220914T170000
+DTEND;TZID="UTC+03:00":20220914T180000
+SUMMARY:Vitis – Huge Debugging Varieties
+UID:dec01f1c-3bd6-4d12-95aa-14b64ca280e1@dec0.org
+DESCRIPTION:In this websession you'll get a better understanding of Debug 
+ capabilities\, how they can be used and in which 
+ context.\n\nhttps://www.plc2.com/en/training/detail/vitis-huge-debugging-
+ varieties-webinar\n\nhttps://register.gotowebinar.com/register/17617841871
+ 02443792\n\nPLC2\nOn demand available: UNKNOWN\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220914T180000
+DTEND;TZID="UTC+03:00":20220914T190000
+SUMMARY:Application Development with Vitis Accelerated Libraries
+UID:d46f5424-82bc-48d5-817a-66612c90801a@d46f.org
+DESCRIPTION:In this webinar\, we will use one example from the Vitis 
+ unified software platform tutorial on GitHub to illustrate how to develop 
+ an application with Vitis Accelerated PL Library on Alveo 
+ U50\n\nhttps://pages.xilinx.com/EN-
+ WB-2022-09-14-VitisAcceleratedLibraries_LP-Registration.html\n\nXilinx 
+ (AMD)\nOn demand available: UNKNOWN\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220914T200000
+DTEND;TZID="UTC+03:00":20220914T210000
+SUMMARY:C/C++ Memory Management: The Stack & Globals
+UID:b51d592f-585c-43ad-8655-0df412ba0c5c@b51d.org
+DESCRIPTION:This webinar explores memory usage in C and C++ using stack 
+ organization and global storage\, including common mistakes and solutions.
+ \n\nhttps://register.gotowebinar.com/register/1193901827924392718\n\nhttps
+ ://www.doulos.com/webinars/ccplusplus-memory-management-the-stack-
+ globals/\n\nDoulos\nOn demand available: PROBABLY YES\nRegistration: 
+ REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220915T103000
+DTEND;TZID="UTC+03:00":20220915T113000
+SUMMARY:UVVM: UVM for VHDL DESIGNERS - An INTRODUCTION
+UID:cdeaceed-b220-4022-8edc-fb5ccc4d6b57@cdea.org
+DESCRIPTION:This webinar will provide an introduction to UVVM and get you 
+ started using UVVM on your next or current project.\n\nhttps://forms.offic
+ e.com/Pages/ResponsePage.aspx?id=PrmpCZYxkEiGHWiuWdNdZ044K4KXg-
+ hOiLiJL3T1uSlUOUlGUVlRREY4M0JSMUJVUzFZTlhMVjdaRCQlQCN0PWcu\n\nEspen 
+ TALLAKSEN (via ELECTRA IC)\nOn demand available: UNKNOWN\nRegistration: 
+ REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220916T200000
+DTEND;TZID="UTC+03:00":20220916T210000
+SUMMARY:Portable Stimulus: What is it and what is it for?
+UID:6a87346d-11f0-4a30-89a9-a806736f9268@6a87.org
+DESCRIPTION:This webinar introduces the Accellera Portable Test and 
+ Stimulus Standard (PSS).\n\nhttps://register.gotowebinar.com/register/8782
+ 784958567035405\n\nhttps://www.doulos.com/webinars/portable-stimulus-what-
+ is-it-and-what-is-it-for/\n\nDoulos\nOn demand available: PROBABLY 
+ YES\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220920T170000
+DTEND;TZID="UTC+03:00":20220920T180000
+SUMMARY:Kria App Series: Faster than the blink of an eye
+UID:cb2aa81c-e7c1-4019-8916-5d0ec45aa69d@cb2a.org
+DESCRIPTION:During this webinar\, we will discuss how a 10GigE Vision 
+ Camera Accelerated Application can be easily deployed on Kria KR260 
+ Robotics Starter Kit.\n\nhttps://pages.xilinx.com/EN-
+ WB-2022-09-20-KR260MachineVisionApp_LP-Registration.html\n\nXilinx 
+ (AMD)\nOn demand available: UNKNOWN\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220921T180000
+DTEND;TZID="UTC+03:00":20220921T190000
+SUMMARY:AI Engine Development Using Vitis Model Composer
+UID:8f7c95a7-fec4-4c0c-8642-7c22c3b39eef@8f7c.org
+DESCRIPTION:Vitis™ Model Composer is a model-based design tool that enables
+  rapid design exploration within the MathWorks MATLAB® and Simulink® 
+ environment and accelerates the path to production on AMD Xilinx devices 
+ via automatic code generation.\n\nhttps://pages.xilinx.com/EN-
+ WB-2022-09-21-AIEngineDevelopment_LP-Registration.html\n\nXilinx (AMD)\nOn
+  demand available: UNKNOWN\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220923T200000
+DTEND;TZID="UTC+03:00":20220923T210000
+SUMMARY:The Keys to SystemC & TLM-2.0: How to be Successful​
+UID:3f6463b3-8b9a-436c-b9d1-79ffc28ca8b1@3f64.org
+DESCRIPTION:This session is aimed at hands-on hardware or software 
+ engineers who might know Verilog or C but have no previous experience of S
+ ystemC.\n\nhttps://register.gotowebinar.com/register/4003736777871208976\n
+ \nhttps://www.doulos.com/webinars/the-keys-to-systemc-
+ tlm-20/\n\nDoulos\nOn demand available: PROBABLY YES\nRegistration: 
+ REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220927T180000
+DTEND;TZID="UTC+03:00":20220927T190000
+SUMMARY:Comparing the performance of graph algorithms on AMD Xilinx FPGA 
+ and Nvidia GPUs
+UID:ab2d54c8-52d3-4b5c-bbed-b562fe678d6e@ab2d.org
+DESCRIPTION:Vitis graph library offers the implementations of an extensive 
+ set of hardware kernels and software API functions of graph analytic 
+ algorithms to both hardware and software developers.\n\nIn this webinar\, 
+ we will introduce the implementation of two key graph analytic algorithms:
+  Breadth First Search (BFS) and Single Source Shortest Path (SSSP) on AMD 
+ Xilinx FPGAs...\n\nhttps://pages.xilinx.com/EN-
+ WB-2022-09-27-VitisGraphvsNvidiaGraph_LP-Registration.html\n\nXilinx 
+ (AMD)\nOn demand available: UNKNOWN\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220928T200000
+DTEND;TZID="UTC+03:00":20220928T210000
+SUMMARY:Anatomy of a Linux Device Driver​
+UID:42642c97-3778-4409-bb29-aa3561ba82cc@4264.org
+DESCRIPTION:This webinar will examine the role and structure of a Linux 
+ device driver and how it interacts with existing frameworks and subsystems
+  within the Linux kernel.\n\nhttps://register.gotowebinar.com/register/575
+ 7583168524508427\n\nhttps://www.doulos.com/webinars/anatomy-of-a-linux-
+ device-driver/\n\nDoulos\nOn demand available: PROBABLY YES\nRegistration:
+  REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20220930T100000
+DTEND;TZID="UTC+03:00":20220930T170000
+SUMMARY:Xilinx Spartan-6 Migration to 7 Series or UltraScale+ Online 
+ Workshop
+UID:44c25fcb-d4b2-45ee-827b-6f5b823af4cd@44c2.org
+DESCRIPTION:This free online workshop covers all the necessary steps to 
+ migrate a Xilinx® Spartan-6 design made in ISE to the 7-Series or 
+ UltraScale/Ultrascale+ devices using the Vivado ML tools.\n\nhttps://regis
+ ter.gotowebinar.com/register/6640761485339419917\n\nhttps://www.doulos.com
+ /special-events/spartan-6-migration-to-7-series-or-ultrascaleplus-online-
+ xilinx-workshop\n\nFREE OF CHARGE (Usual price $990)\n\nDoulos\nOn demand 
+ available: PROBABLY YES\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20221011T180000
+DTEND;TZID="UTC+03:00":20221011T190000
+SUMMARY:Do You Know What's In Your Software? How SBOM Management Can 
+ Mitigate Security Risks
+UID:319c4109-5fe1-4419-affa-bbe76e6a332c@319c.org
+DESCRIPTION:Join us for an enlightening look at what security risks and 
+ CVEs lurk in your products\, using SBOMs to mitigate risk as part of 
+ DevSecOps\, and how knowing what’s in your software can prepare you for 
+ the next cyberattack.\n\nhttps://register.gotowebinar.com/register/6864295
+ 498308828172\n\nNXP\nOn demand available: UNKNOWN\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20221012T200000
+DTEND;TZID="UTC+03:00":20221012T210000
+SUMMARY:When to use Helper Code to Accelerate Formal​
+UID:e185a71a-4bed-45bd-b534-fa41352f7e61@e185.org
+DESCRIPTION:In this webinar for formal verification users\, we look at when
+  and where helper code can be used effectively to describe properties\, 
+ model formal abstractions\, constrain formal inputs\, and control and aid 
+ formal analysis.\nOur goal is to help you accelerate your formal analysis.
+ \n\nhttps://register.gotowebinar.com/register/4808824481141040396\n\nhttps
+ ://www.doulos.com/webinars/when-to-use-helper-code-to-accelerate-
+ formal/\n\nDoulos\nOn demand available: PROBABLY YES\nRegistration: 
+ REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20221014T200000
+DTEND;TZID="UTC+03:00":20221014T210000
+SUMMARY:Managing Devices with Linux Device Drivers (RISC-V)​
+UID:919d3d04-cad6-4130-a242-4e36b753445c@919d.org
+DESCRIPTION:In this webinar we investigate the why and how of managing 
+ peripheral devices in a RISC-V based embedded Linux system.\n\nhttps://reg
+ ister.gotowebinar.com/register/6409254914837235468\n\nhttps://www.doulos.c
+ om/webinars/managing-devices-with-linux-device-drivers-
+ risc-v/\n\nDoulos\nOn demand available: PROBABLY YES\nRegistration: 
+ REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20221017T100000
+DTEND;TZID="UTC+03:00":20221017T143000
+SUMMARY:Timing Analysis: Lecture​
+UID:de342762-013a-41c0-88a4-a3f5509870b4@de34.org
+DESCRIPTION:You will learn how to constrain & analyze a design for timing 
+ using the Timing Analyzer in the Intel® Quartus® Prime Pro software v. 22.
+ 1.\n\nhttps://learning.intel.com/Developer/learn/course/989/session/191/oc
+ tober-17-2022-central-european-time-zone\n\nIntel\nOn demand available: 
+ PROBABLY YES\nRegistration: REQUIRED (Free Intel account is required.)
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20221018T100000
+DTEND;TZID="UTC+03:00":20221018T143000
+SUMMARY:Timing Analysis: Hands-On Labs​
+UID:69506ee6-7c96-4c8e-a801-b02e0b16fad3@6950.org
+DESCRIPTION:This workshop is a follow on to the Intel FPGA Timing Analysis:
+  Lecture class.  There will be a brief review of the SDC constraints 
+ learned in the previous class before starting the labs. \n\nhttps://learni
+ ng.intel.com/developer/learn/course/990/session/192/october-18-2022-centra
+ l-european-time-zone\n\nIntel\nOn demand available: PROBABLY 
+ YES\nRegistration: REQUIRED (Free Intel account is required.)
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20221019T200000
+DTEND;TZID="UTC+03:00":20221019T210000
+SUMMARY:C/C++ Memory Management: Debugging & Best Practices
+UID:f2a1a5cd-d5c9-4737-aa3c-b6ec3993ada3@f2a1.org
+DESCRIPTION:This webinar explores debugging memory usage issues in C and 
+ C++\, and some suggested best practices. \n\nhttps://attendee.gotowebinar.
+ com/register/7939425456164247563\n\nhttps://www.doulos.com/webinars/ccplus
+ plus-memory-management-debugging-best-practices/\n\nDoulos\nOn demand 
+ available: PROBABLY YES\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20221020T180000
+DTEND;TZID="UTC+03:00":20221020T190000
+SUMMARY:CDC and RDC Assist: Applying machine learning to accelerate CDC 
+ analysis
+UID:a3ab8864-bda0-4453-b4b1-be6b95d9d5e3@a3ab.org
+DESCRIPTION:Analyzing large number of CDC/RDCs in designs with small 
+ verification window\, is a challenge. There is a need of some automation 
+ in the setup and debugging crossings. This webinar will dive into how the 
+ CDC and RDC Assist function of Questa CDC and Questa RDC use machine 
+ learning to accelerate setup\, identification of design structures\, and 
+ assist with constraint generation to help users achieve signoff more effic
+ iently.\n\nhttps://event.on24.com/wcc/r/3923964/1EEDA5C596DC49BDE7E8E51C06
+ 9EB41A\n\nSiemens\nOn demand available: UNKNOWN\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20221021T200000
+DTEND;TZID="UTC+03:00":20221021T210000
+SUMMARY:Rapid Creation of Edge AI Solutions on an FPGA
+UID:96420651-12ea-4af0-8e17-3adb4d04bf9a@9642.org
+DESCRIPTION:This webinar will explore ideas on identifying and deploying 
+ trained AI models on FPGAs.\n\nhttps://register.gotowebinar.com/register/7
+ 227863312103480334\n\nhttps://www.doulos.com/webinars/rapid-creation-of-
+ edge-ai-solutions-on-an-fpga/\n\nDoulos\nOn demand available: PROBABLY 
+ YES\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20221026T180000
+DTEND;TZID="UTC+03:00":20221026T190000
+SUMMARY:Questa Design Solutions as a sleep aid
+UID:4db8f98a-75b0-4486-8dba-9e13225a66a6@4db8.org
+DESCRIPTION:In this webinar you will gain an understanding about how Questa
+  Design Solutions can help designers improve the quality of initial 
+ deliveries which drives more consistent schedule execution\, and fewer 
+ late nights for the entire team.\n\nhttps://event.on24.com/wcc/r/3921917/F
+ 4C487FC34C1F22DA9BAA84A43758880\n\nSiemens\nOn demand available: 
+ UNKNOWN\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20221027T210000
+DTEND;TZID="UTC+03:00":20221027T220000
+SUMMARY:Early FPGA/SoC Design Verification with Simulink and the Vivado 
+ Simulator from AMD Xilinx
+UID:fc91163d-284e-4abb-bffd-6622c19cefa0@fc91.org
+DESCRIPTION:In this webinar\, engineers from AMD and MathWorks will 
+ demonstrate techniques for early functional verification of designs that 
+ use both the programmable logic and AI Engine array functions. (VERSAL)\n\
+ nhttps://www.mathworks.com/company/events/webinars/upcoming/early-fpga-
+ soc-design-verification-with-simulink-and-the-vivado-
+ simulator-3803213.html\n\nMathWorks\nOn demand available: 
+ UNKOWN\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20221028T200000
+DTEND;TZID="UTC+03:00":20221028T210000
+SUMMARY:Deep Learning - in the Cloud and at the Edge
+UID:d762fb76-9791-46e2-9213-1cfd02bfe4d2@d762.org
+DESCRIPTION:We will provide an introduction to the subject of Deep Learning
+  aimed at engineers who are considering the use of neural networks in edge
+  devices.\n\nhttps://register.gotowebinar.com/register/3269720408161815054
+ \n\nhttps://www.doulos.com/webinars/deep-learning-in-the-cloud-and-at-the-
+ edge/\n\nDoulos\nOn demand available: PROBABLY YES\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID="UTC+03:00":20221103T180000
+DTEND;TZID="UTC+03:00":20221103T190000
+SUMMARY:Developing a fully-featured Embedded System with Vision Support
+UID:8c5cb3e4-c158-4caf-a23a-453adb290cd1@8c5c.org
+DESCRIPTION:With experienced NXP partner Phytec\, we will be featuring 
+ demos and technical solutions based on NXP i.MX 8M Plus Applications Proce
+ ssors.\n\nhttps://register.gotowebinar.com/rt/8578501196860415247\n\nNXP\n
+ On demand available: UNKNOWN\nRegistration: REQUIRED
+DTSTAMP:20221014T062458Z
+END:VEVENT
+NAME:Free Virtual (Online) Events - cal.alperyazar.com
+X-WR-CALNAME:Free Virtual (Online) Events - cal.alperyazar.com
+END:VCALENDAR
