@@ -964,6 +964,18 @@ events:
       On demand available: PROBABLY YES
       Registration: REQUIRED
 
+  - summary: "CDC and RDC Assist: Applying machine learning to accelerate CDC analysis"
+    begin: 2022-10-20 18:00:00 +03:00
+    end: 2022-10-20 19:00:00 +03:00
+    description: |
+      Analyzing large number of CDC/RDCs in designs with small verification window, is a challenge. There is a need of some automation in the setup and debugging crossings. This webinar will dive into how the CDC and RDC Assist function of Questa CDC and Questa RDC use machine learning to accelerate setup, identification of design structures, and assist with constraint generation to help users achieve signoff more efficiently.
+
+      https://event.on24.com/wcc/r/3923964/1EEDA5C596DC49BDE7E8E51C069EB41A
+
+      Siemens
+      On demand available: UNKNOWN
+      Registration: REQUIRED
+
   - summary: "Rapid Creation of Edge AI Solutions on an FPGA"
     begin: 2022-10-21 20:00:00 +03:00
     end: 2022-10-21 21:00:00 +03:00
@@ -978,6 +990,18 @@ events:
       On demand available: PROBABLY YES
       Registration: REQUIRED
 
+  - summary: "Early FPGA/SoC Design Verification with Simulink and the Vivado Simulator from AMD Xilinx"
+    begin: 2022-10-27 21:00:00 +03:00
+    end: 2022-10-27 22:00:00 +03:00
+    description: |
+      In this webinar, engineers from AMD and MathWorks will demonstrate techniques for early functional verification of designs that use both the programmable logic and AI Engine array functions. (VERSAL)
+
+      https://www.mathworks.com/company/events/webinars/upcoming/early-fpga-soc-design-verification-with-simulink-and-the-vivado-simulator-3803213.html
+
+      MathWorks
+      On demand available: UNKOWN
+      Registration: REQUIRED
+
   - summary: "Deep Learning - in the Cloud and at the Edge"
     begin: 2022-10-28 20:00:00 +03:00
     end: 2022-10-28 21:00:00 +03:00
@@ -990,4 +1014,16 @@ events:
 
       Doulos
       On demand available: PROBABLY YES
+      Registration: REQUIRED
+
+  - summary: "Developing a fully-featured Embedded System with Vision Support"
+    begin: 2022-11-03 18:00:00 +03:00
+    end: 2022-11-03 19:00:00 +03:00
+    description: |
+      With experienced NXP partner Phytec, we will be featuring demos and technical solutions based on NXP i.MX 8M Plus Applications Processors.
+
+      https://register.gotowebinar.com/rt/8578501196860415247
+
+      NXP
+      On demand available: UNKNOWN
       Registration: REQUIRED
