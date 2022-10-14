@@ -950,6 +950,30 @@ events:
       On demand available: PROBABLY YES
       Registration: REQUIRED
 
+  - summary: "Timing Analysis: Lecture​"
+    begin: 2022-10-17 10:00:00 +03:00
+    end: 2022-10-17 14:30:00 +03:00
+    description: |
+      You will learn how to constrain & analyze a design for timing using the Timing Analyzer in the Intel® Quartus® Prime Pro software v. 22.1.
+
+      https://learning.intel.com/Developer/learn/course/989/session/191/october-17-2022-central-european-time-zone
+
+      Intel
+      On demand available: PROBABLY YES
+      Registration: REQUIRED (Free Intel account is required.)
+
+  - summary: "Timing Analysis: Hands-On Labs​"
+    begin: 2022-10-18 10:00:00 +03:00
+    end: 2022-10-18 14:30:00 +03:00
+    description: |
+      This workshop is a follow on to the Intel FPGA Timing Analysis: Lecture class.  There will be a brief review of the SDC constraints learned in the previous class before starting the labs. 
+
+      https://learning.intel.com/developer/learn/course/990/session/192/october-18-2022-central-european-time-zone
+
+      Intel
+      On demand available: PROBABLY YES
+      Registration: REQUIRED (Free Intel account is required.)
+
   - summary: "C/C++ Memory Management: Debugging & Best Practices"
     begin: 2022-10-19 20:00:00 +03:00
     end: 2022-10-19 21:00:00 +03:00
@@ -988,6 +1012,18 @@ events:
 
       Doulos
       On demand available: PROBABLY YES
+      Registration: REQUIRED
+
+  - summary: "Questa Design Solutions as a sleep aid"
+    begin: 2022-10-26 18:00:00 +03:00
+    end: 2022-10-26 19:00:00 +03:00
+    description: |
+      In this webinar you will gain an understanding about how Questa Design Solutions can help designers improve the quality of initial deliveries which drives more consistent schedule execution, and fewer late nights for the entire team.
+
+      https://event.on24.com/wcc/r/3921917/F4C487FC34C1F22DA9BAA84A43758880
+
+      Siemens
+      On demand available: UNKNOWN
       Registration: REQUIRED
 
   - summary: "Early FPGA/SoC Design Verification with Simulink and the Vivado Simulator from AMD Xilinx"
